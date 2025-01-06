@@ -3,11 +3,11 @@ title: "On the implementation of admm with dynamically configurable parameter fo
 collection: publications
 category: manuscripts
 permalink: /publication/s11590-024-02106-z
-excerpt: 'This proposes a novel variant of the alternating direction method of multipliers (ADMM) approach for solving minimization of the rate of l1 and l2 norms for sparse recovery.'
+excerpt: ''
 date: 2024-3-26
 venue: 'Optimization Letters'
 slidesurl: ''
 paperurl: '[http://aijunly.github.io/files/s11590-024-02106-z.pdf](https://link.springer.com/article/10.1007/s11590-024-02106-z)'
-citation: 'J. Wang and Q. Ma. (2024). On the implementation of admm with dynamically configurable parameter for the separable ℓ1/ℓ2 minimization. Optimization Letters.'
+citation: 'J. Wang and Q. Ma. On the implementation of admm with dynamically configurable parameter for the separable ℓ1/ℓ2 minimization. Optimization Letters, 2024.'
 ---
  
