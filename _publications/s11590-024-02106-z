@@ -3,11 +3,9 @@ title: "On the implementation of admm with dynamically configurable parameter fo
 collection: publications
 category: manuscripts
 permalink: /publication/s11590-024-02106-z
-excerpt: ''
 date: 2024-3-26
 venue: 'Optimization Letters'
-slidesurl: ''
-paperurl: '[http://aijunly.github.io/files/s11590-024-02106-z.pdf](https://link.springer.com/article/10.1007/s11590-024-02106-z)'
+paperurl: 'http://aijunly.github.io/files/s11590-024-02106-z.pdf'
 citation: 'J. Wang and Q. Ma. On the implementation of admm with dynamically configurable parameter for the separable ℓ1/ℓ2 minimization. Optimization Letters, 2024.'
 ---
  
