@@ -1,11 +1,11 @@
 ---
-title: "Teaching experience 2"
+title: "Operate Research and Optimization"
 collection: teaching
 type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+permalink: /teaching/2025-spring-ORO
+venue: "JUST, ChangShan Campus"
+date: 2025-02-17
+location: "Zhenjiang, China"
 ---
 
 This is a description of a teaching experience. You can use markdown like any other post.
