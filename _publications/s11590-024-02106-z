@@ -1,8 +1,8 @@
 ---
-title: "[On the implementation of admm with dynamically configurable parameter for the separable ℓ1/ℓ2 minimization](https://link.springer.com/article/10.1007/s11590-024-02106-z)"
+title: "On the implementation of admm with dynamically configurable parameter for the separable ℓ1/ℓ2 minimization"
 collection: publications
 category: manuscripts
-permalink: /publication/s11590-024-02106-z
+permalink: 'https://link.springer.com/article/10.1007/s11590-024-02106-z'
 date: 2024-3-26
 venue: 'Optimization Letters'
 paperurl: 'https://link.springer.com/article/10.1007/s11590-024-02106-z'
