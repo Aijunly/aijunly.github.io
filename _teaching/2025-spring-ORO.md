@@ -1,5 +1,5 @@
 ---
-title: "Operate Research and Optimization"
+title: "Operations Research and Optimization"
 collection: teaching
 type: "Workshop"
 permalink: /teaching/2025-spring-ORO
@@ -8,13 +8,16 @@ date: 2025-02-17
 location: "Zhenjiang, China"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+This Course has the following 4 chapters.
 
-Heading 1
+Linear Programming and its Dual Linear Programming
 ======
 
-Heading 2
+Mixed Integer Linear Programming
 ======
 
-Heading 3
+Graph and Network
+======
+
+Nonlinear Programming
 ======
