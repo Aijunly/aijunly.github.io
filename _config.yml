@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Aijunly / aijunly.github.com"
+title                    : "Aijunly.github.com"
 title_separator          : "-"
 name                     : &name "Aijunly"
 description              : &description "I am a worker for Mathematica"
