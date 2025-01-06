@@ -11,10 +11,10 @@ I am a worker for mathematica programming in [JUST](www.just.edu.cn) from Octobe
 
 > I still want to explain the real world which is consist of Universe, Earth (Copper, Stannum, Silver, Gold ...) and Human being (Family, Organization, Country, Government, Economy ...) and its tools (Books, Music, UltraSonic, **COVID-19** ...) in Mathematica.
 
-Just for my funny in my brain. Don't do it like me.
+Just for my funny. Don't do it like me.
 > What is pity, I can't always figure it out, tangled up in my brain like a bunch of broken nets.
 
 
-One More thing
+One more thing
 ------
 This world is so amazing that my consciousness can't even reach outside the solar system!
