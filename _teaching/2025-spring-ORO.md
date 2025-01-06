@@ -1,7 +1,7 @@
 ---
 title: "Operations Research and Optimization"
 collection: teaching
-type: "Workshop"
+type: "Undergraduate"
 permalink: /teaching/2025-spring-ORO
 venue: "JUST, ChangShan Campus"
 date: 2025-02-17
