@@ -21,12 +21,12 @@ repository               : "Aijunly/aijunly.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "aijunly.png"
+  avatar           : "aijunly.jpg"
   name             : "Aijunly J. Wang"
   pronouns         : # example: "she/her"  
   bio              : "I am a worker for Mathematica"
   location         : "Zhenjiang China"
-  employer         : "Jiangsu University and Science and Technology"
+  employer         : "JUST"
   uri              : aijunly.github.io
   email            : "jwang77@just.edu.cn" 
 
