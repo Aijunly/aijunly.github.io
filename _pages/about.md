@@ -9,7 +9,7 @@ redirect_from:
 
 I am a worker for mathematica programming in [JUST](www.just.edu.cn) from October 14, 2019. My mainly research interest includes sparse optimization, deep learning and optimal control. 
 
-> I still want to explain the real world which is consist of the Earth (Copper, Stannum, Silver, Gold ...) and Human being and its tools (Books, Music, Noise, **COVID-19** , **WAR**, **GUN**, **MONEY**, Family, Organization, **Country**, **Government**, **Economy**, **SCIENCE**, ...) by Mathematica.
+> I still want to explain the real world which is consist of the Earth (Copper, Stannum, Silver, Gold ...) and Human being and its tools (Books, Music, Noise, **COVID-19** , **WAR**, **GUN**, **MONEY**, Family, Organization, **COUNTRY**, **GOVERMENT**, **ECONOMY**, **SCIENCE**, ...) by Mathematica.
 
 Just for my funny. Don't do it like me.
 > What is pity, I can't always figure it out, tangled up in my brain like a bunch of broken nets.
