@@ -22,4 +22,4 @@ This world is so amazing that my consciousness can't even reach outside the sola
 Two more questions
 ------
 - Shouldn't every person on earth be able to move freely around every corner of the planet?
-- Doesn't the earth and its ancillary resources belong to everyone on the planet, and then isn't it only necessary for one person to disagree with you sending satellites into space and "YOU (**who you are** )" should terminate it, but it doesn't, so do each of us agree to be represented by "THEM (**who they are** )"?
+- Do I have the right to object categorically to the launching of satellites into the outer space of the Earth by any **individual, Government, Countries or organization**?
