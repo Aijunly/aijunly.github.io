@@ -1,8 +1,8 @@
 ---
 title: "Matrix Theory"
 collection: teaching
-type: "Postgraduate"
-venue: "JUST, ChangShan Campus"   
+type: "Undergraduate"
+venue: "JUST, ChangShan Campus"     
 permalink: /teaching/001-MT-2025-Autumn.md
 date: 2025-09-17
 location: "Zhenjiang, China"
