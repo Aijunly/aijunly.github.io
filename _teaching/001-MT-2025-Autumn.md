@@ -29,16 +29,7 @@ $$
         1 & 3 & 1 & 3 \\
         \end{pmatrix}
 $$
-
-Its dual linear programming
-
-$$
-    \begin{aligned}
-        \min_{y \in \mathbb{R}^{m} }~& w = b^\top \lambda\\
-	    \rm{s.t.} &~ A^{\top} \lambda \geq  c.
-    \end{aligned}
-$$
-
+ 
 Mixed Integer Linear Programming
 ======
 
