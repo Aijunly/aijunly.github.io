@@ -15,6 +15,7 @@ Powerful mathematica tools of Matrix and its properties
 ======
 
 Given a matrix 
+
 $$
         A = 
         \begin{pmatrix}                 
