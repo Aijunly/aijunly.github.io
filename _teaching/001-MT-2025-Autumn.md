@@ -8,7 +8,7 @@ date: 2025-02-17
 location: "Zhenjiang, China"
 ---
 
-From basic to advance with your small steps    
+From advance to application with your small steps    
 
 ======      
 
@@ -21,14 +21,13 @@ Linear Programming and its Dual Linear Programming
 Primal Standard Linear programming:      
 
 $$
-\begin{aligned}
-	\max \quad & z = c^\top x\\
-	\rm{s.t.} &~
-	\begin{cases} 
-		A x =  b  \\
-		 ~x \geq  0
-	\end{cases} 
-\end{aligned}
+        A = 
+        \begin{pmatrix}
+        4 & 4 & 3 & 2 \\
+        2 & 2 & 2 & 1 \\
+        3 & 1 & 4 & 4 \\
+        1 & 3 & 1 & 3 \\
+        \end{pmatrix}
 $$
 
 Its dual linear programming
