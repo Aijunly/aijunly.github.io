@@ -1,7 +1,7 @@
 ---
 title: "Matrix Theory"
 collection: teaching
-type: "Postgraduate"        
+type: "graduate"        
 permalink: /teaching/001-MT-2025-Autumn  
 venue: "JUST, Mengxi Campus"
 date: 2025-09-17
