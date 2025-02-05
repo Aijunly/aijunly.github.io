@@ -2,7 +2,7 @@
 title: " Matrix Theory "     
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
+permalink: /teaching/001-MT-2025-Autumn
 venue: "University 1, Department"    
 date: 2014-01-01
 location: "City, Country"
