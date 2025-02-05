@@ -24,7 +24,7 @@ $$
         \end{pmatrix}
 $$
 
-and its eigenvalues \\(\lambda_1 = 10,~ \lambda_2 =1, ~\lambda_3 = 1 + i,~ \lambda_4 = 1 - i\\).
+and its eigenvalues \\(\lambda_1 = 10,~ \lambda_2 =1, ~ \lambda_3 = 1 + i,~ \lambda_4 = 1 - i\\).
  
 Powerful mathematica tools of Matrix and its properties. 
 ======           
