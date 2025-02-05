@@ -11,7 +11,7 @@ location: "Zhenjiang, China"
 From advance to application with your small steps    
 
  
-Given a matrix \\( A \in \mathbb{R}^{4\times 4} \\)
+Given a matrix 
 ======
 
 $$
@@ -22,6 +22,7 @@ $$
         3 & 1 & 4 & 4 \\
         1 & 3 & 1 & 3 \\
         \end{pmatrix}
+        \in \mathbb{R}^{4\times 4}
 $$
 
 and its eigenvalues \\(\lambda_1 = 10,~ \lambda_2 =1, ~ \lambda_3 = 1 + i,~ \lambda_4 = 1 - i\\).
