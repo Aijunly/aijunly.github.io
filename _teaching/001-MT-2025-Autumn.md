@@ -11,9 +11,10 @@ location: "Zhenjiang, China"
 From advance to application with your small steps    
 
  
-Given a matrix 
+Powerful mathematica tools of Matrix and its properties
 ======
 
+Given a matrix 
 $$
         A = 
         \begin{pmatrix}                 
@@ -26,10 +27,5 @@ $$
 $$
 
 and its eigenvalues \\(\lambda_1 = 10,~ \lambda_2 =1, ~ \lambda_3 = 1 + i,~ \lambda_4 = 1 - i\\).
-
-
  
-Powerful mathematica tools of Matrix and its properties.  
-======     
-
  
