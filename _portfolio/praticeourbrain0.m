@@ -1,6 +1,6 @@
 ---
 title: "Our Learning, Studying and Researching likes Machine Learning, Studying and Researching from Humanbeing"
-excerpt: "Please help our brain with MATHEMATICA <br/><img src='/images/500x300.png'>"
+excerpt: "Please help our brain with MATHEMATICA <br/><img src='/images/goals.PNG'>"
 collection: portfolio  
 ---
 
