@@ -14,8 +14,8 @@ From advance to application with your small steps    
 
 
 
-Given a matrix $A \in \mathbb{R}^{4\times 4}$   
-======
+Given a matrix \\( A \in \mathbb{R}^{4\times 4} \\) 
+======  
 
 $$
         A = 
