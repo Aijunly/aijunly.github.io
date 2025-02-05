@@ -2,7 +2,7 @@
 title: "Matrix Theory"
 collection: teaching
 type: "Postgraduate"        
-permalink: /teaching/000-MT-2025-Autumn  
+permalink: /teaching/001-MT-2025-Autumn  
 venue: "JUST, Mengxi Campus"
 date: 2025-09-17
 location: "Zhenjiang, China"
