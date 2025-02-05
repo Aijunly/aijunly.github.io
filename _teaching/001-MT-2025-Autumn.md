@@ -1,5 +1,5 @@
 ---
-title: "Operations Research and Optimization"
+title: "Matrix Theory"
 collection: teaching
 type: "Postgraduate"
 permalink: /teaching/000-ORO-2025-Spring  
