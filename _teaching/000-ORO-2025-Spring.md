@@ -2,7 +2,7 @@
 title: "Operations Research and Optimization"
 collection: teaching
 type: "Undergraduate"
-permalink: /teaching/000-ORO-2025
+permalink: /teaching/000-ORO-2025-Spring  
 venue: "JUST, ChangShan Campus"
 date: 2025-02-17
 location: "Zhenjiang, China"
