@@ -30,7 +30,6 @@ and its eigenvalues \\(\lambda_1 = 10,~ \lambda_2 =1, ~ \lambda_3 = 1 + i,~ \lam
 
  
 Powerful mathematica tools of Matrix and its properties. 
-
-======           
+======     
 
  
