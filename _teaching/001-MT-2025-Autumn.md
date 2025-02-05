@@ -1,26 +1,50 @@
 ---
-title: "Matrix Theory"
+title: "Operations Research and Optimization"
 collection: teaching
-type: "Undergraduate"
-venue: "JUST, Mengxi Campus"     
-permalink: /teaching/001-MT-2025-Autumn
-date: 2025-09-17
+type: "Postgraduate"
+permalink: /teaching/000-ORO-2025-Spring  
+venue: "JUST, ChangShan Campus"
+date: 2025-02-17
 location: "Zhenjiang, China"
 ---
 
-From advance to real world with your small steps    
+From basic to advance with your small steps    
 
 ======      
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
- 
   
+
+
+
+Linear Programming and its Dual Linear Programming
+======
+Primal Standard Linear programming:      
+
+$$
+\begin{aligned}
+	\max \quad & z = c^\top x\\
+	\rm{s.t.} &~
+	\begin{cases} 
+		A x =  b  \\
+		 ~x \geq  0
+	\end{cases} 
+\end{aligned}
+$$
+
+Its dual linear programming
+
+$$
+    \begin{aligned}
+        \min_{y \in \mathbb{R}^{m} }~& w = b^\top \lambda\\
+	    \rm{s.t.} &~ A^{\top} \lambda \geq  c.
+    \end{aligned}
+$$
+
+Mixed Integer Linear Programming
+======
+
+Graph and Network
+======
+
+Nonlinear Programming
+======
