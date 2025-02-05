@@ -16,13 +16,12 @@ From advance to application with your small steps    
 
 
 
-Linear Programming and its Dual Linear Programming
+Given a matrix $A \in \mathbb{R}^{4\times 4}$   
 ======
-Primal Standard Linear programming:      
 
 $$
         A = 
-        \begin{pmatrix}
+        \begin{pmatrix}  
         4 & 4 & 3 & 2 \\
         2 & 2 & 2 & 1 \\
         3 & 1 & 4 & 4 \\
@@ -33,8 +32,4 @@ $$
 Mixed Integer Linear Programming
 ======
 
-Graph and Network
-======
-
-Nonlinear Programming
-======
+ 
