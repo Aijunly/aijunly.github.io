@@ -3,7 +3,7 @@ title: "Matrix Theory"
 collection: teaching
 type: "Postgraduate"
 #permalink: /teaching/000-ORO-2025-Spring  
-venue: "JUST, ChangShan Campus"
+venue: "JUST, Mengxi Campus"
 date: 2025-02-17
 location: "Zhenjiang, China"
 ---
