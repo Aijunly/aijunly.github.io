@@ -7,7 +7,7 @@ date: 2025-09-17
 location: "Zhenjiang, China"
 ---
 
-From basic to advance with your small steps  
+From advance to application with your small steps  
 
 
 
