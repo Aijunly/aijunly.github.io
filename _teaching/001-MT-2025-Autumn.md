@@ -1,14 +1,19 @@
 ---
-title: "Operations Research and Optimization"
+title: "Matrix Theory"
 collection: teaching
-type: "Undergraduate"
-permalink: /teaching/000-ORO-2025-Spring  
-venue: "JUST, ChangShan Campus"
-date: 2025-02-17
+type: "Postgraduate"        
+permalink: /teaching/000-MT-2025-Autumn  
+venue: "JUST, Mengxi Campus"
+date: 2025-09-17
 location: "Zhenjiang, China"
 ---
 
 From basic to advance with your small steps  
+
+
+
+
+
 
 From advance to real world with your small steps    
 
