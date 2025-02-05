@@ -3,7 +3,7 @@ title: "Matrix Theory"
 collection: teaching
 type: "Undergraduate"
 venue: "JUST, ChangShan Campus"
-date: 2025-02-17
+date: 2025-09-17
 location: "Zhenjiang, China"
 ---
 
