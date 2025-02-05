@@ -1,5 +1,5 @@
 ---
-title: "Matrix Research and Optimization"
+title: "Matrix Theory"
 collection: teaching
 type: "Undergraduate"
 venue: "JUST, ChangShan Campus"
