@@ -1,12 +1,16 @@
 ---
-title: " Matrix Theory "     
+title: "Matrix Theory"
 collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/001-MT-2025-Autumn
-venue: "University 1, Department"    
-date: 2014-01-01
-location: "City, Country"
+type: "Postgraduate"
+permalink: /teaching/001-MT-2025-Autumn  
+venue: "JUST, Mengxi Campus"        
+date: 2025-09-11
+location: "Zhenjiang, China"
 ---
+
+From advance to real world with your small steps    
+
+======      
 
 This is a description of a teaching experience. You can use markdown like any other post.
 
