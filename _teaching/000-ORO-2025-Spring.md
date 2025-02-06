@@ -16,7 +16,7 @@ From basic to advance with your small steps    
 
 
 
-1. Linear Programming and its Dual Linear Programming
+Linear Programming and its Dual Linear Programming
 ======
 Primal Standard Linear programming:      
 
@@ -42,11 +42,11 @@ $$
 
 Simplex Method in the following Table <br/><img src='/images/SimplexMethods.png'>      
 
-2. Mixed Integer Linear Programming
+Mixed Integer Linear Programming
 ======
 
-3. Graph and Network
+Graph and Network
 ======
 
-4. Nonlinear Programming
+Nonlinear Programming
 ======
