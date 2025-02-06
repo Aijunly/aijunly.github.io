@@ -3,6 +3,7 @@ title: "Convex Optimization"
 excerpt: "We Learning that how the Machine Learning from us? <br/><img src='/images/confun.png'>" 
 collection: teaching 
 type: "Postgraduate" 
+date: 2025-02-17 
 venue: "JUST, ChangShan Campus" 
 ---
 
