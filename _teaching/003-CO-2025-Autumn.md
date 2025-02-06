@@ -2,9 +2,9 @@
 title: "Convex Optimization"
 collection: teaching  
 type: "Undergraduate"  
-permalink: /teaching/000-ORO-2025-Spring  
+permalink: /teaching/003-CO-2025-Autumn  
 venue: "JUST, ChangShan Campus"
-date: 2025-02-17
+date: 2025-02-17     
 location: "Zhenjiang, China"
 ---
 
