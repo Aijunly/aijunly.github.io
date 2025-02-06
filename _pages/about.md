@@ -14,6 +14,7 @@ I am a worker for mathematica programming in [JUST](www.just.edu.cn) from Octobe
 Just for my funny. Don't do it like me.
 > What is pity, I can't always figure it out, tangled up in my brain like a bunch of broken nets.
 
+ <br/><img src='/images/sparsegrids.png'>"
 
 One more thing
 ------
