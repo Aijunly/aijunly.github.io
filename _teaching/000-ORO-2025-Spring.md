@@ -8,7 +8,7 @@ date: 2025-02-17
 location: "Zhenjiang, China"
 ---
 
-From basic to advance with your small steps    
+From basic to advance with your small steps  <br/><img src='/images/Kaohcj.png'>
 
 ======      
 
