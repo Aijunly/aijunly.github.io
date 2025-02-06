@@ -20,7 +20,7 @@ Work experience
 * October 14, 2019: Lecturer
   * Jiangsu University of Science and Technology
   * School of science
-  * Supervisor: My wife
+  * Supervisor: My wife <br/><img src='/images/aijunly.jpg'>
   
 Skills
 ======
