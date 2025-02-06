@@ -1,12 +1,9 @@
 ---
-title: "Convex Optimization"
-collection: teaching  
-type: "Undergraduate"  
-permalink: /teaching/003-CO-2025-Autumn  
+title: "Maching Learning"
+excerpt: "We Learning that how the Machine Learning from us? <br/><img src='/images/AImethods.jpg'>"
+collection: teaching
+type: "Undergraduate"
 venue: "JUST, ChangShan Campus"
-date: 2025-02-17     
-location: "Zhenjiang, China"
 ---
 
-From basic to advance with your small steps  <br/><img src='/images/Kaohcj.png'>
-
+This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
