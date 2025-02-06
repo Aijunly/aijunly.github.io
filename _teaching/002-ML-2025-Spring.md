@@ -1,7 +1,6 @@
 ---
 title: "Maching Learning, 2025"
 excerpt: "We Learning that how the Machine Learning from us? <br/><img src='/images/AImethods.jpg'>"
-
 collection: portfolio
 ---
 
