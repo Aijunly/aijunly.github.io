@@ -1,5 +1,5 @@
 ---
-title: "Convex Optimization Maching Learning"
+title: "Convex Optimization"
 excerpt: "We Learning that how the Machine Learning from us? <br/><img src='/images/AImethods.jpg'>"
 collection: teaching    
 type: "Undergraduate"
