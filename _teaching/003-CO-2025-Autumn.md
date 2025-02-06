@@ -1,7 +1,7 @@
 ---
-title: "COperations Research and Optimization"
+title: "Convex Optimization"
 collection: teaching  
-type: "Undergraduate"
+type: "Undergraduate"  
 permalink: /teaching/000-ORO-2025-Spring  
 venue: "JUST, ChangShan Campus"
 date: 2025-02-17
