@@ -10,12 +10,6 @@ location: "Zhenjiang, China"
 
 From basic to advance with your small steps  <br/><img src='/images/Kaohcj.png'>
 
-======      
-
-  
-
-
-
 Linear Programming and its Dual Linear Programming
 ======
 Primal Standard Linear programming:      
