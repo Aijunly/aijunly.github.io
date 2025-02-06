@@ -8,7 +8,7 @@ date: 2025-02-17
 location: "Zhenjiang, China"
 ---
 
-From advance to application with your small steps    
+From advance to application with your small steps <br/><img src='/images/bigpicMT.jpg'>
 
  
 Powerful mathematica tools of Matrix and its properties
