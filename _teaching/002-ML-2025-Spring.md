@@ -1,4 +1,4 @@
- ---
+---
 title: "Machine Learing"
 collection: teaching
 type: "Undergraduate"  
