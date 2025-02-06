@@ -40,7 +40,7 @@ $$
     \end{aligned}
 $$
 
-Simplex Method in  <br/><img src='/images/SimplexMethods.png'>      
+Simplex Method in the following Table <br/><img src='/images/SimplexMethods.png'>      
 
 Mixed Integer Linear Programming
 ======
