@@ -18,7 +18,7 @@ Education
 Work experience
 ======
 * October 14, 2019: Lecturer
-  * Jiangsu University of Science and Technology
+  * Jiangsu University of Science and Technology <br/><img src='/images/justlogo.png'>
   * School of science
   * Supervisor: My wife <br/><img src='/images/aijunly.jpg'>
   
