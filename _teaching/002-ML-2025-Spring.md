@@ -3,6 +3,7 @@ title: "Maching Learning"
 excerpt: "We Learning that how the Machine Learning from us? <br/><img src='/images/AImethods.jpg'>"
 collection: teaching
 type: "Undergraduate"
+date: 2025-02-17 
 venue: "JUST, ChangShan Campus"
 ---
 
