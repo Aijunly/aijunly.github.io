@@ -36,7 +36,7 @@ redirect_from:
 
 ## Optimization in Julia with solvers
 | Solver                                                 | Year | Description                                                  |
-| ------------------------------------------------------ | ---- | ------------------------------------------------------------ |
+| ------------------------------------------------------ | ---- | :----------------------------------------------------------- |
 | [BARON](https://minlp.com/)                            | 2001 | The Optimization Firm produces [BARON](https://minlp.com/), the world's fastest and most powerful MINLP solver. |
 | [COPT](https://www.cardopt.com/copt)                   | 2019 | COPT (Cardinal Optimizer) is a mathematical optimization solver for large-scale optimization problems. |
 | [CPLEX](https://www.ibm.com/analytics/cplex-optimizer) | 1988 | High-performance optimization solver for linear, mixed-integer and quadratic programming. |
