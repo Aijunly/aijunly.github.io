@@ -40,6 +40,10 @@ redirect_from:
 | [BARON](https://minlp.com/)    | 2001   |  The Optimization Firm produces [BARON](https://minlp.com/), the world's fastest and most powerful MINLP solver.                           |
 | [COPT](https://www.cardopt.com/copt)    | 2019   | COPT (Cardinal Optimizer) is a mathematical optimization solver for large-scale optimization problems.                          |
 | [CPLEX](https://www.ibm.com/analytics/cplex-optimizer)    | 1988   | High-performance optimization solver for linear, mixed-integer and quadratic programming                         |
+| [GUROBI](https://www.gurobi.com/)    | 2008   |  Gurobi is the best optimization solver in the world, along with outstanding support and straightforward pricing.                           |
+| [HiGHS](https://highs.dev/)    | 2019   | HiGHS - high performance software for linear optimization.                          |
+| [IPOPT](https://github.com/coin-or/Ipopt)    | 1988   | High-performance optimization solver for linear, mixed-integer and quadratic programming                         |
+| [SCIP](https://scipopt.org/)    | 1988   | High-performance optimization solver for linear, mixed-integer and quadratic programming                         |
 
 ### BARON 
  BARON was the first branch-and-bound solver for global optimization of nonlinear programming (NLP) and mixed-integer nonlinear programming (MINLP) problems, which are some of the hardest mathematical optimization problems in the world. <img src='/images/baron.png'>
@@ -49,6 +53,20 @@ COPT includes high-performance solvers for LP, MIP, SDP, (MI)SOCP, convex (MI)QP
 
 ### CPLEX
 Produce precise and logical decisions for planning and resource allocation problems using the powerful algorithms of IBM ILOG CPLEX Optimizer. Take advantage of a distributed parallel algorithm for mixed integer programming and flexible, high-performance mathematical programming solvers for linear programming, mixed integer programming and more.
+
+### GUROBI
+Optimization is at the heart of what we do.  Our industry-leading decision intelligence technology empowers our customers to make smarter, faster decisions.
+
+### HiGHS
+HiGHS is high performance serial and parallel software for solving large-scale sparse linear programming (LP), mixed-integer programming (MIP) and quadratic programming (QP) models, developed in C++11, with interfaces to C, C#, FORTRAN, Julia and Python.
+
+### IPOPT
+Ipopt (Interior Point OPTimizer, pronounced eye-pea-Opt) is a software package for large-scale nonlinear optimization.
+
+### SCIP
+SCIP is currently one of the fastest non-commercial solvers for mixed integer programming (MIP) and mixed integer nonlinear programming (MINLP). It is also a framework for constraint integer programming and branch-cut-and-price. It allows for total control of the solution process and the access of detailed information down to the guts of the solver.
+
+
 
 
 ## Resources                    
