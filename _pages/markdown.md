@@ -1,13 +1,13 @@
 ---
 permalink: /markdown/
-title: "The Julia Language"
+title: "The Julia Programming Language"
 author_profile: true
 redirect_from: 
   - /md/
   - /markdown.html  
 ---
 
-## The Julia Language
+## What is the Julia?
 **Julia** is a flexible dynamic language, appropriate for **scientific and numerical computing**, with performance comparable to traditional statically-typed languages.  Website: [Julia](https://julialang.org/)
 
 * **Fast** : Julia was designed for high performance   
