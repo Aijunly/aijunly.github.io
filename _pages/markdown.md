@@ -10,13 +10,13 @@ redirect_from:
 ## The Julia Language
 **Julia** is a flexible dynamic language, appropriate for **scientific and numerical computing**, with performance comparable to traditional statically-typed languages.  Website: [Julia](https://julialang.org/)
 
-* Fast : Julia was designed for high performance   
-* Dynamic : Julia is dynamically typed   
-* Reproducible : Reproducible environments make it possible to recreate the same Julia environment every time, across platforms, with pre-built binaries  
-* Composable : Julia uses multiple dispatch as a paradigm, making it easy to express many object-oriented and functional programming patterns   
-* General : Julia provides asynchronous I/O, metaprogramming, debugging, logging, profiling, a package manager, and more   
-* Open source :  Julia is [an open source](https://github.com/JuliaLang/julia) project available under the MIT license. The source code is available on GitHub
-* Packages : the Julia community has registered over 10,000 Julia packages for community use
+* **Fast** : Julia was designed for high performance   
+* **Dynamic** : Julia is dynamically typed   
+* **Reproducible** : Reproducible environments make it possible to recreate the same Julia environment across platforms with pre-built binaries  
+* **Composable** : Julia uses multiple dispatch as a paradigm, making it easy to express many object-oriented and functional programming patterns   
+* **General** : Julia provides asynchronous I/O, metaprogramming, debugging, logging, profiling, a package manager, and more   
+* **Open source** :  Julia is [an open source](https://github.com/JuliaLang/julia) project available under the MIT license
+* **Packages** : the Julia community has registered over 10,000 Julia packages for community use
 
 
 
