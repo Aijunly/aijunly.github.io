@@ -37,13 +37,13 @@ redirect_from:
 ## Optimization in Julia with solvers
 | Solver            | Year   |                        Description                                      |
 | --------         | ------ | ------------------------------------------------------------ |
-| [BARON](https://minlp.com/)    | 2001   |  The Optimization Firm produces [BARON](https://minlp.com/), the world's fastest and most powerful MINLP solver.                           |
-| [COPT](https://www.cardopt.com/copt)    | 2019   | COPT (Cardinal Optimizer) is a mathematical optimization solver for large-scale optimization problems.                          |
-| [CPLEX](https://www.ibm.com/analytics/cplex-optimizer)    | 1988   | High-performance optimization solver for linear, mixed-integer and quadratic programming                         |
-| [GUROBI](https://www.gurobi.com/)    | 2008   |  Gurobi is the best optimization solver in the world, along with outstanding support and straightforward pricing.                           |
-| [HiGHS](https://highs.dev/)    | 2019   | HiGHS - high performance software for linear optimization.                          |
-| [IPOPT](https://github.com/coin-or/Ipopt)    | 2002   | High-performance optimization solver for linear, mixed-integer and quadratic programming                         |
-| [SCIP](https://scipopt.org/)    | 2005   | High-performance optimization solver for linear, mixed-integer and quadratic programming                         |
+| [BARON](https://minlp.com/)    | 2001   |  The Optimization Firm produces [BARON](https://minlp.com/), the world's fastest and most powerful MINLP solver.  | 
+| [COPT](https://www.cardopt.com/copt)    | 2019   | COPT (Cardinal Optimizer) is a mathematical optimization solver for large-scale optimization problems.                          | 
+| [CPLEX](https://www.ibm.com/analytics/cplex-optimizer)    | 1988   | High-performance optimization solver for linear, mixed-integer and quadratic programming                         | 
+| [GUROBI](https://www.gurobi.com/)    | 2008   |  Gurobi is the best optimization solver in the world, along with outstanding support and straightforward pricing.                           | 
+| [HiGHS](https://highs.dev/)    | 2019   | HiGHS - high performance software for linear optimization.                          | 
+| [IPOPT](https://github.com/coin-or/Ipopt)    | 2002   | High-performance optimization solver for linear, mixed-integer and quadratic programming                         | 
+| [SCIP](https://scipopt.org/)    | 2005   | High-performance optimization solver for linear, mixed-integer and quadratic programming                         | 
 
 ### BARON 
  BARON was the first branch-and-bound solver for global optimization of nonlinear programming (NLP) and mixed-integer nonlinear programming (MINLP) problems, which are some of the hardest mathematical optimization problems in the world. <img src='/images/baron.png'>
