@@ -35,16 +35,21 @@ redirect_from:
 
 
 ## Optimization in Julia with solvers
-
+| Solver            | Year   |                        Description                                      |
+| --------         | ------ | ------------------------------------------------------------ |
+| [BARON](https://minlp.com/)    | 2001   |  The Optimization Firm produces [BARON](https://minlp.com/), the world's fastest and most powerful MINLP solver.                           |
+| [COPT](https://www.cardopt.com/copt)    | 2019   | COPT (Cardinal Optimizer) is a mathematical optimization solver for large-scale optimization problems.                          |
+| [Doe Doe](#)     | 2022   | Description of the item in the list                          |
 
 ### BARON 
- The Optimization Firm produces [BARON](https://minlp.com/), the world's fastest and most powerful MINLP solver, and continues to reimagine robust algorithms with the ALAMO modeling tool. BARON was the first branch-and-bound solver for global optimization of nonlinear programming (NLP) and mixed-integer nonlinear programming (MINLP) problems, which are some of the hardest mathematical optimization problems in the world. <img src='/images/baron.png'>
+
+ BARON was the first branch-and-bound solver for global optimization of nonlinear programming (NLP) and mixed-integer nonlinear programming (MINLP) problems, which are some of the hardest mathematical optimization problems in the world. <img src='/images/baron.png'>
 
 
 
  
-## Resources  
- * [Liquid syntax guide](https://shopify.github.io/liquid/tags/control-flow/)
+## Resources     
+ * [Liquid syntax guide](https://shopify.github.io/liquid/tags/control-flow/)     
  * [MathJax Documentation](https://docs.mathjax.org/en/latest/)  
 
 ## MathJax 
