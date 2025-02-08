@@ -8,10 +8,10 @@ redirect_from:
 ---
 
 ## The Julia Language
-**Julia** is a flexible dynamic language, appropriate for scientific and numerical computing, with performance comparable to traditional statically-typed languages.  Website: [Julia](https://julialang.org/)
+**Julia** is a flexible dynamic language, appropriate for **scientific and numerical computing**, with performance comparable to traditional statically-typed languages.  Website: [Julia](https://julialang.org/)
 
 * Fast
-* Dynamic
+* Dynamic      
 * Reproducible
 * Composable
 * General
