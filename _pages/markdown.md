@@ -48,15 +48,6 @@ redirect_from:
 ### BARON 
  BARON was the first branch-and-bound solver for global optimization of nonlinear programming (NLP) and mixed-integer nonlinear programming (MINLP) problems, which are some of the hardest mathematical optimization problems in the world. <img src='/images/baron.png'>
 
-### COPT      
-COPT includes high-performance solvers for LP, MIP, SDP, (MI)SOCP, convex (MI)QP, convex (MI)QCP and exponential cone programming.
-
-### CPLEX
-Produce precise and logical decisions for planning and resource allocation problems using the powerful algorithms of IBM ILOG CPLEX Optimizer. Take advantage of a distributed parallel algorithm for mixed integer programming and flexible, high-performance mathematical programming solvers for linear programming, mixed integer programming and more.
-
-### GUROBI
-Optimization is at the heart of what we do.  Our industry-leading decision intelligence technology empowers our customers to make smarter, faster decisions.
-
 ### HiGHS
 HiGHS is high performance serial and parallel software for solving large-scale sparse linear programming (LP), mixed-integer programming (MIP) and quadratic programming (QP) models, developed in C++11, with interfaces to C, C#, FORTRAN, Julia and Python.
 
