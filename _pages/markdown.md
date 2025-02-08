@@ -36,7 +36,6 @@ redirect_from:
 
 ## Optimization in Julia with solvers
 | Solver            |     Year    |                                                        Description                                                        | 
-
 | ----------------         | ------------ | ------------------------------------------------------------------------------------------------------------ | 
 
 | [BARON](https://minlp.com/)    | 2001   |  The Optimization Firm produces [BARON](https://minlp.com/), the world's fastest and most powerful MINLP solver.  | 
