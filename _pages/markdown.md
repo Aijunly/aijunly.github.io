@@ -50,7 +50,15 @@ Ipopt (Interior Point OPTimizer, pronounced eye-pea-Opt) is a software package f
 SCIP is currently one of the fastest non-commercial solvers for mixed integer programming (MIP) and mixed integer nonlinear programming (MINLP). It is also a framework for constraint integer programming and branch-cut-and-price. It allows for total control of the solution process and the access of detailed information down to the guts of the solver.
 
 
-
+| Solver                                                 | Year | Description                                                  | 
+| ------------------------------------------------------ | ---- | :----------------------------------------------------------- | 
+| [BARON](https://minlp.com/)                            | 2001 | The Optimization Firm produces BARON, the world's fastest and most powerful MINLP solver. | 
+| [COPT](https://www.cardopt.com/copt)                   | 2019 | COPT (Cardinal Optimizer) is a mathematical optimization solver for large-scale optimization problems. | 
+| [CPLEX](https://www.ibm.com/analytics/cplex-optimizer) | 1988 | High-performance optimization solver for linear, mixed-integer and quadratic programming. | 
+| [GUROBI](https://www.gurobi.com/)                      | 2008 | Gurobi is the best optimization solver in the world, along with outstanding support and straightforward pricing. | 
+| [HiGHS](https://highs.dev/)                            | 2019 | HiGHS - high performance software for linear optimization.   | 
+| [IPOPT](https://github.com/coin-or/Ipopt)              | 2002 | Ipopt (Interior Point OPTimizer, pronounced eye-pea-Opt) is a software package for large-scale nonlinear optimization. | 
+| [SCIP](https://scipopt.org/)                           | 2005 | SCIP is a fast and flexible solver for MIP, MINLP, and CP problems. | 
 
 ## Resources                    
  * [Liquid syntax guide](https://shopify.github.io/liquid/tags/control-flow/)     
