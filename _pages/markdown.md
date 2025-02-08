@@ -42,10 +42,10 @@ redirect_from:
 | [Doe Doe](#)     | 2022   | Description of the item in the list                          |
 
 ### BARON 
-
  BARON was the first branch-and-bound solver for global optimization of nonlinear programming (NLP) and mixed-integer nonlinear programming (MINLP) problems, which are some of the hardest mathematical optimization problems in the world. <img src='/images/baron.png'>
 
-
+### COPT
+COPT includes high-performance solvers for LP, MIP, SDP, (MI)SOCP, convex (MI)QP, convex (MI)QCP and exponential cone programming.
 
  
 ## Resources     
