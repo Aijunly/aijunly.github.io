@@ -45,6 +45,8 @@ redirect_from:
 | [IPOPT](https://github.com/coin-or/Ipopt)              | 2002 | Ipopt (Interior Point OPTimizer, pronounced eye-pea-Opt) is a software package for large-scale nonlinear optimization. | 
 | [SCIP](https://scipopt.org/)                           | 2005 | SCIP is a fast and flexible solver for MIP, MINLP, and CP problems. | 
 
+<img src='/images/solvers.png'>
+
 ### [BARON](https://minlp.com/)  
  BARON was the first branch-and-bound solver for global optimization of nonlinear programming (NLP) and mixed-integer nonlinear programming (MINLP) problems, which are some of the hardest mathematical optimization problems in the world. <img src='/images/baron.png'>
 
