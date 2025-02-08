@@ -32,9 +32,20 @@ redirect_from:
   * Some of emoji supported on GitHub should be supposed via the [Jemoji](https://github.com/jekyll/jemoji) plugin :computer:.
   * The best list of the supported emoji can be found in the [Emojis for Jekyll via Jemoji](https://www.fabriziomusacchio.com/blog/2021-08-16-emojis_for_Jekyll/#computer) blog post.
 
-## Resources
+
+
+## Optimization in Julia with solvers
+
+
+### BARON 
+ The Optimization Firm produces [BARON](https://minlp.com/), the world's fastest and most powerful MINLP solver, and continues to reimagine robust algorithms with the ALAMO modeling tool. BARON was the first branch-and-bound solver for global optimization of nonlinear programming (NLP) and mixed-integer nonlinear programming (MINLP) problems, which are some of the hardest mathematical optimization problems in the world. <img src='/images/baron.png'>
+
+
+
+ 
+## Resources  
  * [Liquid syntax guide](https://shopify.github.io/liquid/tags/control-flow/)
- * [MathJax Documentation](https://docs.mathjax.org/en/latest/)
+ * [MathJax Documentation](https://docs.mathjax.org/en/latest/)  
 
 ## MathJax 
 
