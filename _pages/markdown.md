@@ -39,7 +39,7 @@ redirect_from:
 | --------         | ------ | ------------------------------------------------------------ |
 | [BARON](https://minlp.com/)    | 2001   |  The Optimization Firm produces [BARON](https://minlp.com/), the world's fastest and most powerful MINLP solver.                           |
 | [COPT](https://www.cardopt.com/copt)    | 2019   | COPT (Cardinal Optimizer) is a mathematical optimization solver for large-scale optimization problems.                          |
-| [CPLEX]([#](https://www.ibm.com/analytics/cplex-optimizer))     | 1988   | High-performance optimization solver for linear, mixed-integer and quadratic programming                         |
+| [CPLEX](https://www.ibm.com/analytics/cplex-optimizer)    | 1988   | High-performance optimization solver for linear, mixed-integer and quadratic programming                         |
 
 ### BARON 
  BARON was the first branch-and-bound solver for global optimization of nonlinear programming (NLP) and mixed-integer nonlinear programming (MINLP) problems, which are some of the hardest mathematical optimization problems in the world. <img src='/images/baron.png'>
