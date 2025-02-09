@@ -8,21 +8,16 @@ redirect_from:
 ---
 
 ## What is the Julia?
-**Julia** is a flexible dynamic language, appropriate for **scientific and numerical computing**, with performance comparable to traditional statically-typed languages.  Website: [Julia](https://julialang.org/)
-
-* **Fast** : Julia was designed for high performance   
-* **Dynamic** : Julia is dynamically typed   
-* **Reproducible** : Reproducible environments make it possible to recreate the same Julia environment across platforms with pre-built binaries  
-* **Composable** : Julia uses multiple dispatch as a paradigm, making it easy to express many object-oriented and functional programming patterns   
-* **General** : Julia provides asynchronous I/O, metaprogramming, debugging, logging, profiling, a package manager, and more   
-* **Open source** :  Julia is [an open source](https://github.com/JuliaLang/julia) project available under the MIT license
-* **Packages** : the Julia community has registered over 10,000 Julia packages for community use
+**[Julia](https://julialang.org/)** is a flexible dynamic language, appropriate for **scientific and numerical computing**, with performance comparable to traditional statically-typed languages.   
+<br/><img src='/images/juliagood.png'>
 
 
 
-## Tips and hints
+## Primitive numeric types
 
 * Name a file ".md" to have it render in markdown, name it ".html" to render in HTML.
+
+
 * Go to the [commit list](https://github.com/academicpages/academicpages.github.io/commits/master) (on your repo) to find the last version Github built with Jekyll. 
   * Green check: successful build
   * Orange circle: building
