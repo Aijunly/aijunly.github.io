@@ -47,7 +47,17 @@ redirect_from:
  BARON was the first branch-and-bound solver for global optimization of nonlinear programming (NLP) and mixed-integer nonlinear programming (MINLP) problems. <img src='/images/baron.png'>
 
 ### [HiGHS](https://highs.dev/) 
-HiGHS is high performance serial and parallel software for solving large-scale sparse linear programming (LP), mixed-integer programming (MIP) and quadratic programming (QP) models, developed in C++11, with interfaces to C, C#, FORTRAN, Julia and Python.
+HiGHS is high performance serial and parallel software for solving large-scale sparse linear programming (LP), mixed-integer programming (MIP) and quadratic programming (QP) models.
+$$
+ 	\begin{split}
+			 &\min_{ x \in \mathbb{R}^{n}}~ \frac{1}{2}x^{\top} Q x + c^{\top} x\\
+			&\quad \text{s.t.}  
+				\begin{cases}
+						L \leq Ax \leq U, \\
+						l \leq x \leq u,
+				\end{cases}
+	\end{split}
+$$
 
 ### [SCIP](https://scipopt.org/)  
 SCIP is currently one of the fastest non-commercial solvers for mixed integer programming (MIP) and mixed integer nonlinear programming (MINLP). It is also a framework for constraint integer programming and branch-cut-and-price. 
