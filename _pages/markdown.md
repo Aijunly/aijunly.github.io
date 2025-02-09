@@ -13,14 +13,14 @@ redirect_from:
 
 
 
-## Numeric Types and Strings
+## Numeric Types and Strings in Julia  
 
 A type tree for all subtypes of Number in Base is shown below. 
 
 <img src='/images/numericaltypes.png'>
 
 
-## Control Flow   
+## Control Flow in Julia 
 
 - Compound Expressions: begin and ;.
 - Conditional Evaluation: if-elseif-else and ?: (ternary operator).
@@ -29,12 +29,26 @@ A type tree for all subtypes of Number in Base is shown below.
 - Exception Handling: try-catch, error and throw.
 - Tasks (aka Coroutines): yieldto.
 
-## Functions
+## Functions in Julia 
+In Julia, a function is an object that maps a tuple of argument values to a return value. Julia functions are not pure mathematical functions, because they can alter and be affected by the global state of the program. 
+
 ```julia
 function f(x, y)
            x + y
        end
 ```
+
+## Methods in Julia 
+
+```julia
+ methods(f)
+# 2 methods for generic function "f" from Main:
+ [1] f(x::Float64, y::Float64)
+     @ none:1
+ [2] f(x::Number, y::Number)
+     @ none:1
+```
+
 
 ## Optimization in Julia with solvers
 
