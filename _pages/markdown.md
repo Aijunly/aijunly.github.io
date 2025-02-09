@@ -13,21 +13,28 @@ redirect_from:
 
 
 
-## Numeric types   
+## Numeric Types and Strings
 
-* Name a file ".md" to have it render in markdown, name it ".html" to render in HTML.
+A type tree for all subtypes of Number in Base is shown below. 
 
-
-* Go to the [commit list](https://github.com/academicpages/academicpages.github.io/commits/master) (on your repo) to find the last version Github built with Jekyll. 
-  * Green check: successful build
-  * Orange circle: building
-  * Red X: error
-  * No icon: not built
-* Academic Pages uses [Jekyll Kramdown](https://jekyllrb.com/docs/configuration/markdown/), GitHub Flavored Markdown (GFM) parser, which is similar to the version of Markdown used on GitHub, but may have some minor differences. 
-  * Some of emoji supported on GitHub should be supposed via the [Jemoji](https://github.com/jekyll/jemoji) plugin :computer:.
-  * The best list of the supported emoji can be found in the [Emojis for Jekyll via Jemoji](https://www.fabriziomusacchio.com/blog/2021-08-16-emojis_for_Jekyll/#computer) blog post.
+<img src='/images/numericaltypes.png'>
 
 
+## Control Flow   
+
+- Compound Expressions: begin and ;.
+- Conditional Evaluation: if-elseif-else and ?: (ternary operator).
+- Short-Circuit Evaluation: logical operators && (“and”) and || (“or”), and also chained comparisons.
+- Repeated Evaluation: Loops: while and for.
+- Exception Handling: try-catch, error and throw.
+- Tasks (aka Coroutines): yieldto.
+
+## Functions
+```julia
+function f(x, y)
+           x + y
+       end
+```
 
 ## Optimization in Julia with solvers
 
