@@ -55,13 +55,25 @@ $$
 		&\quad \text{s.t.}  
 		\begin{cases}
 			L \leq Ax \leq U, \\
-			l \leq x \leq u,
+			l \leq x \leq u.
 		\end{cases}
 	\end{split}
 $$
 
 ### [SCIP](https://scipopt.org/)  
 SCIP is currently one of the fastest non-commercial solvers for mixed integer programming (MIP) and mixed integer nonlinear programming (MINLP). It is also a framework for constraint integer programming and branch-cut-and-price. 
+
+$$
+	\begin{split}
+			&\min_{ x \in \mathbb{R}^{n}}~c^{\top} x \\
+			&\quad \text{s.t.}  
+				\begin{cases}
+						\rm{lhs} \leq Ax \leq \rm{rhs}, \\
+						\rm{lb} \leq x \leq \rm{ub}.
+				\end{cases}
+	\end{split}
+$$
+
 
 ## Resources                    
  * [Liquid syntax guide](https://shopify.github.io/liquid/tags/control-flow/)     
