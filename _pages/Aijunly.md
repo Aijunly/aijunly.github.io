@@ -1,12 +1,12 @@
 ---
 layout: archive
-title: "Aijunly"
-permalink: /Aijunly/
+title: "aijunly"
+permalink: /aijunly/
 author_profile: true
 ---
 
 {% include base_path %}
 
-{% for post in site.Aijunly reversed %}
+{% for post in site.aijunly reversed %}
   {% include archive-single.html %}
 {% endfor %}
