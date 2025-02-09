@@ -35,7 +35,7 @@ redirect_from:
 | Solver                                                 | Year | Description                                                  | 
 | ------------------------------------------------------ | ---- | :----------------------------------------------------------- | 
 | [BARON](https://minlp.com/)                            | 2001 | The world's fastest and most powerful MINLP solver. | 
-| [COPT](https://www.cardopt.com/copt)                   | 2019 | Mathematical optimization solver for large-scale (MI) LP, SDP, SOCP, convex QP, convex QCP and exponential cone programming. | 
+| [COPT](https://www.cardopt.com/copt)                   | 2019 | Optimization solver for large-scale (MI) LP, SDP, SOCP, convex QP, convex QCP and exponential cone programming. | 
 | [CPLEX](https://www.ibm.com/analytics/cplex-optimizer) | 1988 | High-performance optimization solver for linear, mixed-integer and quadratic programming. | 
 | [GUROBI](https://www.gurobi.com/)                      | 2008 | The best optimization solver in the world, along with outstanding support and straightforward pricing. | 
 | [HiGHS](https://highs.dev/)                            | 2019 | Freely high performance software for linear optimization.   | 
