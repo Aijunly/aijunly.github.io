@@ -39,9 +39,10 @@ function f(x, y)
 ```
 
 ## Methods in Julia 
+Using all of a function's arguments to choose which method should be invoked, rather than just the first, is known as multiple dispatch.
 
 ```julia
- methods(f)
+ julia> methods(f)
 # 2 methods for generic function "f" from Main:
  [1] f(x::Float64, y::Float64)
      @ none:1
