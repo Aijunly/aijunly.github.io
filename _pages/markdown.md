@@ -22,7 +22,7 @@ A type tree for all subtypes of Number in Base is shown below.
 A **Char** value represents a single character: it is just a 32-bit primitive type with a special literal representation and appropriate arithmetic behaviors, and which can be converted to a numeric value representing a Unicode code point. **Strings** are finite sequences of characters. 
 
 
-## Optimization in Julia with solvers
+## Optimization Solvers
 
 
 | Solver                                                 | Year | Description                                                  | 
@@ -57,6 +57,33 @@ $$
 SCIP is currently one of the fastest non-commercial solvers for mixed integer programming (MIP) and mixed integer nonlinear programming (MINLP). It is also a framework for constraint integer programming and branch-cut-and-price. 
 
 
+
+## My Example
+
+```julia
+using JuMP
+using AmplNLWriter
+
+wjModel = Model(() -> AmplNLWriter.Optimizer("Your_Path\\gurobi.exe",["outlev=1"]))
+ 
+@variable(wjModel,x1 >= 0)
+@variable(wjModel,x2 >= 0)
+
+@constraint(wjModel,3*x1 + 5*x2 <= 15)
+@constraint(wjModel,3*x1 +   x2 <= 6)      
+
+@objective(wjModel,Max,2*x1 + 3*x2)
+
+print(wjModel)
+
+Results = optimize!(wjModel)
+
+summary(Results)
+
+@show JuMP.value(x1)
+@show JuMP.value(x2)
+@show JuMP.objective_value(wjModel)
+```
 
 ## Resources                    
  * [Liquid syntax guide](https://shopify.github.io/liquid/tags/control-flow/)     
