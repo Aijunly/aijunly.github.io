@@ -19,6 +19,7 @@ A type tree for all subtypes of Number in Base is shown below.
 
 <img src='/images/numericaltypes.png'>
 
+A **Char** value represents a single character: it is just a 32-bit primitive type with a special literal representation and appropriate arithmetic behaviors, and which can be converted to a numeric value representing a Unicode code point. **Strings** are finite sequences of characters. 
 
 ## Control Flow in Julia 
 
