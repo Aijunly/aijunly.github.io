@@ -48,14 +48,15 @@ redirect_from:
 
 ### [HiGHS](https://highs.dev/) 
 HiGHS is high performance serial and parallel software for solving large-scale sparse linear programming (LP), mixed-integer programming (MIP) and quadratic programming (QP) models.
+
 $$
  	\begin{split}
-			 &\min_{ x \in \mathbb{R}^{n}}~ \frac{1}{2}x^{\top} Q x + c^{\top} x\\
-			&\quad \text{s.t.}  
-				\begin{cases}
-						L \leq Ax \leq U, \\
-						l \leq x \leq u,
-				\end{cases}
+		&\min_{ x \in \mathbb{R}^{n}}~ \frac{1}{2}x^{\top} Q x + c^{\top} x\\
+		&\quad \text{s.t.}  
+		\begin{cases}
+			L \leq Ax \leq U, \\
+			l \leq x \leq u,
+		\end{cases}
 	\end{split}
 $$
 
