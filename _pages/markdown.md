@@ -63,16 +63,6 @@ $$
 ### [SCIP](https://scipopt.org/)  
 SCIP is currently one of the fastest non-commercial solvers for mixed integer programming (MIP) and mixed integer nonlinear programming (MINLP). It is also a framework for constraint integer programming and branch-cut-and-price. 
 
-$$
-	\begin{split}
-			&\min_{ x \in \mathbb{R}^{n}}~c^{\top} x \\
-			&\quad \text{s.t.}  
-				\begin{cases}
-						\rm{lhs} \leq Ax \leq \rm{rhs}, \\
-						\rm{lb} \leq x \leq \rm{ub}.
-				\end{cases}
-	\end{split}
-$$
 
 
 ## Resources                    
