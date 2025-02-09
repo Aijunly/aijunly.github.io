@@ -21,36 +21,6 @@ A type tree for all subtypes of Number in Base is shown below.
 
 A **Char** value represents a single character: it is just a 32-bit primitive type with a special literal representation and appropriate arithmetic behaviors, and which can be converted to a numeric value representing a Unicode code point. **Strings** are finite sequences of characters. 
 
-## Control Flow in Julia 
-
-- Compound Expressions: begin and ;.
-- Conditional Evaluation: if-elseif-else and ?: (ternary operator).
-- Short-Circuit Evaluation: logical operators && (“and”) and || (“or”), and also chained comparisons.
-- Repeated Evaluation: Loops: while and for.
-- Exception Handling: try-catch, error and throw.
-- Tasks (aka Coroutines): yieldto.
-
-## Functions in Julia 
-In Julia, a function is an object that maps a tuple of argument values to a return value. Julia functions are not pure mathematical functions, because they can alter and be affected by the global state of the program. 
-
-```julia
-function f(x, y)
-           x + y
-       end
-```
-
-## Methods in Julia 
-Using all of a function's arguments to choose which method should be invoked, rather than just the first, is known as multiple dispatch.
-
-```julia
- julia> methods(f)
-# 2 methods for generic function "f" from Main:
- [1] f(x::Float64, y::Float64)
-     @ none:1
- [2] f(x::Number, y::Number)
-     @ none:1
-```
-
 
 ## Optimization in Julia with solvers
 
