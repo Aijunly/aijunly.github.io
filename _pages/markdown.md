@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 ## What is the Julia?
-**[Julia](https://julialang.org/)** is a flexible dynamic language, appropriate for **scientific and numerical computing**, with performance comparable to traditional statically-typed languages.   
+**[Julia](https://julialang.org/)** is a flexible dynamic language, appropriate for **scientific and numerical computing**.   
 <br/><img src='/images/juliagood.png'>
 
 
