@@ -13,7 +13,7 @@ redirect_from:
 
 
 
-## Primitive numeric types
+## Numeric types   
 
 * Name a file ".md" to have it render in markdown, name it ".html" to render in HTML.
 
