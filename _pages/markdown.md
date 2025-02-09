@@ -38,7 +38,7 @@ redirect_from:
 | [COPT](https://www.cardopt.com/copt)                   | 2019 | Mathematical optimization solver for large-scale optimization problems. | 
 | [CPLEX](https://www.ibm.com/analytics/cplex-optimizer) | 1988 | High-performance optimization solver for linear, mixed-integer and quadratic programming. | 
 | [GUROBI](https://www.gurobi.com/)                      | 2008 | The best optimization solver in the world, along with outstanding support and straightforward pricing. | 
-| [HiGHS](https://highs.dev/)                            | 2019 | High performance software for linear optimization.   | 
+| [HiGHS](https://highs.dev/)                            | 2019 | Freely high performance software for linear optimization.   | 
 | [IPOPT](https://github.com/coin-or/Ipopt)              | 2002 | Ipopt (Interior Point OPTimizer) is a software package for large-scale nonlinear optimization. | 
 | [MOSEK](https://www.mosek.com/)                        | 1999 | Powerful software of solving large-scale optimization problems of (MI) Linear, Quadratic and Conic.| 
 | [SCIP](https://scipopt.org/)                           | 2005 | Fast and flexible solver for MIP, MINLP, and CP problems. | 
