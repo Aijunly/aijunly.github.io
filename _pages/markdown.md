@@ -61,10 +61,13 @@ SCIP is currently one of the fastest non-commercial solvers for mixed integer pr
 ## My Example
 
 ```julia
-using JuMP
-using AmplNLWriter
+using JuMP 
 
-wjModel = Model(() -> AmplNLWriter.Optimizer("Your_Path\\gurobi.exe",["outlev=1"]))
+using HiGHS
+wjModel = Model(HiGHS.Optimizer)
+
+# using AmplNLWriter
+# wjModel = Model(() -> AmplNLWriter.Optimizer("Your_Path\\gurobi.exe",["outlev=1"]))
  
 @variable(wjModel,x1 >= 0)
 @variable(wjModel,x2 >= 0)
