@@ -65,9 +65,6 @@ using JuMP 
 
 using HiGHS
 wjModel = Model(HiGHS.Optimizer)  
-
-# using AmplNLWriter 
-# wjModel = Model(() -> AmplNLWriter.Optimizer("C:\\Program Files\\SCIPOptSuite 9.2.1\\bin\\scip.exe",["outlev=1"]))
  
 @variable(wjModel,x1 >= 0)
 @variable(wjModel,x2 >= 0) 
