@@ -57,8 +57,31 @@ $$
 SCIP is currently one of the fastest non-commercial solvers for mixed integer programming (MIP) and mixed integer nonlinear programming (MINLP). It is also a framework for constraint integer programming and branch-cut-and-price. 
 
 
+## Primal Simplex Method
 
-## My Example
+```julia
+struct SimplexAbc{T <: Real}  
+A :: Matrix{T};
+b :: Vector{T};
+c :: Vector{T};
+end
+
+function GetSimplexTable(Abc <: SimplexAbc{T}) where T <: Real
+	# Dimension of A
+	m,n = size(Abc.A);
+	# Augmented matrix                 
+	augAB = [Abc.A Abc.b];
+	# Translate A into DataFrame
+	matdf = DataFrame(augAB,[Symbol.(:X,1:n);Symbol.(:B)]);    
+	# Add check vector or coefficient below the last row of matdf
+	push!(matdf,[Abc.c' 0]);
+	return matdf;
+end
+```
+
+
+
+## My Example     
 
 ```julia
 using JuMP 
