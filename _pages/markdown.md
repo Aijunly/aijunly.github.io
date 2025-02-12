@@ -99,6 +99,9 @@ wjModel = Model(HiGHS.Optimizer)  
 
 print(wjModel)
 
+## Solving...
+optimize!(wjModel)
+
 @show JuMP.value(x1)
 @show JuMP.value(x2)
 @show JuMP.objective_value(wjModel)  
