@@ -33,7 +33,7 @@ A **Char** value represents a single character: it is just a 32-bit primitive ty
 | [GUROBI](https://www.gurobi.com/)                      | 2008 | The best optimization solver in the world, along with outstanding support and straightforward pricing. | 
 | [HiGHS](https://highs.dev/)                            | 2019 | Freely high performance software for linear optimization.   | 
 | [IPOPT](https://github.com/coin-or/Ipopt)              | 2002 | Ipopt (Interior Point OPTimizer) is a software package for large-scale nonlinear optimization. | 
-| [LindoAPI](https://www.lindo.com)                      | 2001 | Powerful solvers for (MI) Stochastic, Linear, Nonlinear, Quadratic, Second Order Cone. | 
+| [LindoAPI](https://www.lindo.com)                      | 2001 | Powerful solvers for (MI) Stochastic, Linear, Nonlinear, Quadratic, Second Order Cone programming. | 
 | [MOSEK](https://www.mosek.com/)                        | 1999 | Powerful software of solving large-scale optimization problems of (MI) Linear, Quadratic and Conic.| 
 | [SCIP](https://scipopt.org/)                           | 2005 | Fast and flexible solver for MIP, MINLP, and CP problems. | 
 
