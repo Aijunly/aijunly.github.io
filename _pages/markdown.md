@@ -76,18 +76,8 @@ $$
 
 
 <img src='/images/pdsimplexK.png'>
-In which, \\( \sigma^{k} \\) is the \\( k \\)-th Reduced Cost.
+In which, \\( \sigma^{k} \\) is the \\( k \\)-th Reduced Cost. First, we define some struct
 
-
-
-
-First, we define some struct
-
-
-
-
-
- 
 ```julia         
 struct SimplexAbc{T <: Real}  
 A :: Matrix{T};
