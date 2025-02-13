@@ -79,12 +79,14 @@ $$
 
 
  First, we define some struct
+ 
 ```julia        
 struct SimplexAbc{T <: Real}  
 A :: Matrix{T};
 b :: Vector{T};
 c :: Vector{T};
 end
+
 function GetSimplexTable(Abc <: SimplexAbc{T <: Real})
 	# Dimension of A
 	m,n = size(Abc.A);
