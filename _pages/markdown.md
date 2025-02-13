@@ -58,7 +58,7 @@ $$
 SCIP is currently one of the fastest non-commercial solvers for mixed integer programming (MIP) and mixed integer nonlinear programming (MINLP). It is also a framework for constraint integer programming and branch-cut-and-price. 
 
 
-## Primal Simplex Method
+## Primal-Dual Simplex Method
 
 ```julia
 struct SimplexAbc{T <: Real}  
