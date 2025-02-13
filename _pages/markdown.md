@@ -19,7 +19,7 @@ A type tree for all subtypes of Number in Base is shown below.
 
 <img src='/images/numericaltypes.png'>
 
-A **Char** value represents a single character: it is just a 32-bit primitive type with a special literal representation and appropriate arithmetic behaviors, and which can be converted to a numeric value representing a Unicode code point. **Strings** are finite sequences of characters. 
+A **Char** value represents a single character. **Strings** are finite sequences of characters. 
 
 
 ## Optimization Solvers
@@ -108,11 +108,11 @@ optimize!(wjModel)
 @show JuMP.objective_value(wjModel)  
 ```
 
-## Double Colors Ball                    
+## Lottery of Double Colors Ball                    
 > Two-color betting is divided into red ball number area and blue ball number area, red ball number area by There are \\(R = 33 \\) numbers from 1-33, and \\( B = 16 \\) numbers from 1-16 in the blue ball number area. Bet Choose \\( rB = 6 \\) red ball numbers and \\( bB = 1 \\) blue ball number to form a single bet, each bet amount RMB 2 yuan.
  <img src='/images/ssqzjgz.png'>   
 
-Winning amount \\( p [\ell] \\),
+Winning amount \\( p [ \ell ] \\),
 
 $$  
     {\tt p}[\ell] =     
@@ -126,7 +126,7 @@ $$  
 	\end{cases}
 $$
 
-$k$The amount after winning the lottery
+\\( k \\) The amount after winning the lottery
 
 $$
     {\tt M}[k] = 
