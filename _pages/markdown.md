@@ -78,9 +78,9 @@ $$
 
 
 
- First, we define some struct
+ ## First, we define some struct
  
-```julia     
+```julia         
 struct SimplexAbc{T <: Real}  
 A :: Matrix{T};
 b :: Vector{T};
