@@ -110,8 +110,28 @@ optimize!(wjModel)
 
 ## Double Colors Ball                    
 > Two-color betting is divided into red ball number area and blue ball number area, red ball number area by There are 33 numbers from 1-33, and 16 numbers from 1-16 in the blue ball number area. Bet Choose 6 red ball numbers and 1 blue ball number to form a single bet, each bet amount RMB 2 yuan.
- <img src='/images/ssqzjgz.png'>
+ <img src='/images/ssqzjgz.png'>   
 
+Decision variables
+$$
+    {\tt xR}[i] = 
+    \begin{cases}
+	1, & \text{选择红球}~$j$;\\
+	0, & \text{不选择红球}~$j$;
+	\end{cases}
+ ~~i = 1,2,\cdots, {\tt R}
+$$
+
+and
+
+$$
+    {\tt xB}[j] = 
+    \begin{cases} 
+	1, & \text{选择蓝球}~$i$;\\
+	0, & \text{不选择蓝球}~$i$;
+	\end{cases}
+~j = 1,2,\cdots, {\tt B}.
+$$
 
 
 
