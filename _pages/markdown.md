@@ -59,7 +59,7 @@ SCIP is currently one of the fastest non-commercial solvers for mixed integer pr
 
 
 ## Primal-Dual Simplex Method
-> From the \\( k \\)-th iteration of Simplex Table to the next \\( k+1 \\)-th iteration of Simplex Table for solving the Standard Linear Programming
+> From the \\( k \\)-th iteration of Simplex Table to the next \\( k+1 \\)-th iteration of Simplex Table for solving the Standard form of Linear Programming
 > 
 > $$
  	\begin{split}
@@ -102,7 +102,6 @@ end
 ```
 
 
-
 ## My Example     
 
 ```julia
@@ -131,3 +130,22 @@ optimize!(wjModel)
 
 ## Continous...
 
+```julia         
+struct SimplexAbc{T <: Real}  
+A :: Matrix{T};
+b :: Vector{T};
+c :: Vector{T};  
+end
+
+function GetSimplexTable(Abc <: SimplexAbc{T <: Real})
+	# Dimension of A
+	m,n = size(Abc.A);
+	# Augmented matrix                 
+	augAB = [Abc.A Abc.b];
+	# Translate A into DataFrame
+	matdf = DataFrame(augAB,[Symbol.(:X,1:n);Symbol.(:B)]);    
+	# Add check vector or coefficient below the last row of matdf
+	push!(matdf,[Abc.c' 0]);
+	return matdf;
+end
+```
