@@ -59,7 +59,17 @@ SCIP is currently one of the fastest non-commercial solvers for mixed integer pr
 
 
 ## Primal-Dual Simplex Method
-> From the \\( k \\) -th iteration of Simplex Table to the next \\( k+1 \\) -th iteration  of Simplex Table as the follows.
+> From the \\( k \\) -th iteration of Simplex Table to the next \\( k+1 \\) -th iteration  of Simplex Table for solving the Standard Linear Programming
+> $$
+ 	\begin{split}
+		&\min_{ x \in \mathbb{R}^{n}}~  c^{\top} x\\
+		&\quad \text{s.t.}  
+		\begin{cases}
+		     Ax = b, \\
+		     x \geq 0.
+		\end{cases}
+	\end{split}
+$$
 
 <img src='/images/pdsimplexK.png'>
 
