@@ -158,8 +158,8 @@ $$
     \begin{cases} 
 	1, & \text{Chose Blue}~$i$;\\ 
 	0, & \text{Don't Chose Blue}~$i$;
-	\end{cases}   
-~j = 1,2,\cdots, {\tt B}.
+    \end{cases}   
+~~j = 1,2,\cdots, {\tt B}.
 $$
 
 
