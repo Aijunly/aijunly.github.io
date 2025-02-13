@@ -72,13 +72,21 @@ SCIP is currently one of the fastest non-commercial solvers for mixed integer pr
 	\end{split}
 $$
 > 
-> where \\( \sigma^{k} \\) is the \\( k \\)-th Reduced Cost.
+> where \\( A \in \mathbb{R}^{m \times n} \\) , \\( b \in \mathbb{R}^{m} \\) and \\( c \in \mathbb{R}^{n} \\) is Reduced Cost.
+
 
 <img src='/images/pdsimplexK.png'>
+In which, \\( \sigma^{k} \\) is the \\( k \\)-th Reduced Cost.
 
 
 
- ## First, we define some struct
+
+First, we define some struct
+
+
+
+
+
  
 ```julia         
 struct SimplexAbc{T <: Real}  
