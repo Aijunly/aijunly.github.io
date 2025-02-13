@@ -117,12 +117,12 @@ Winning amount \\( p [ \ell ] \\),
 $$  
     {\tt p}[\ell] =     
     \begin{cases}
-	10000000(\text{The winning amount of each issue is to be determined}), & \text{First prize} \ell = 1;\\
-	5000000(\text{The winning amount of each issue is to be determined}), & \text{Second prize} \ell = 2; \\
-        3000, & \text{the third prize} \ell = 3; \\
-        200, & \text{The fourth prize} \ell = 4; \\
-        10, & \text{The fiveth prize} \ell = 5; \\
-        5, & \text{The sixth prize} \ell = 6. 
+	10000000(\text{The winning amount of each issue is to be determined}), & \text{First prize, } \ell = 1;\\
+	5000000(\text{The winning amount of each issue is to be determined}), & \text{Second prize, } \ell = 2; \\
+        3000, & \text{the third prize, } \ell = 3; \\
+        200, & \text{The fourth prize, } \ell = 4; \\
+        10, & \text{The fiveth prize, } \ell = 5; \\
+        5, & \text{The sixth prize, } \ell = 6. 
 	\end{cases}
 $$
 
