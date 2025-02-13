@@ -76,7 +76,9 @@ $$
 
 <img src='/images/pdsimplexK.png'>
 
- 
+
+
+ First, we define some struct
 ```julia        
 struct SimplexAbc{T <: Real}  
 A :: Matrix{T};
