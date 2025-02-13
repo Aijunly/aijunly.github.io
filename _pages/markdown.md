@@ -67,10 +67,11 @@ SCIP is currently one of the fastest non-commercial solvers for mixed integer pr
 		&\quad \text{s.t.}  
 		\begin{cases}
 		     Ax = b, \\
-		     x \geq 0.
+		     x \geq 0,
 		\end{cases}
 	\end{split}
 $$
+> where \\( \sigma^{k} \\) is the \\( k \\) -th Reduced Cost.
 
 <img src='/images/pdsimplexK.png'>
 
