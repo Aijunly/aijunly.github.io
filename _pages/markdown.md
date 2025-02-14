@@ -38,7 +38,10 @@ A **Char** value represents a single character. **Strings** are finite sequences
 | [SCIP](https://scipopt.org/)                           | 2005 | Fast and flexible solver for MIP, MINLP, and CP problems. | 
 
 
-### [HiGHS](https://highs.dev/) 
+One want to study and research Mathematical Programming and its applications academically and I strongly recommand you the following Open-Source Solvers of [HiGHS](https://highs.dev/) for LP, QP and MILP, [Ipopt](https://github.com/coin-or/Ipopt)  for NLP and [SCIP](https://github.com/scipopt/scip)  for MIQP and MINLP.
+
+
+### [HiGHS](https://highs.dev/)                          
 HiGHS is high performance serial and parallel software for solving large-scale sparse linear programming (LP), mixed-integer programming (MIP) and quadratic programming (QP) models.
 
 $$
