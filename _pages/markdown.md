@@ -42,7 +42,7 @@ One want to study and research Mathematical Programming and its applications, an
 
 
 ### [HiGHS](https://highs.dev/)                          
-HiGHS is high performance serial and parallel software for solving large-scale sparse linear programming (LP), mixed-integer programming (MIP) and quadratic programming (QP) models.
+HiGHS is high performance serial and parallel software for solving large-scale sparse linear programming (LP), mixed-integer programming (MIP) and quadratic programming (QP) models with [Online Document](https://ergo-code.github.io/HiGHS/dev/).
 
 $$
  	\begin{split}
@@ -57,7 +57,7 @@ $$
 
 
 ### [Ipopt](https://github.com/coin-or/Ipopt) 
-[Ipopt](https://github.com/coin-or/Ipopt) is a software package for large-scale nonlinear optimization. It is designed to find (local) solutions of mathematical optimization problems of the form
+[Ipopt](https://github.com/coin-or/Ipopt) is a software package for large-scale nonlinear optimization with [Online Document](https://coin-or.github.io/Ipopt/).. It is designed to find (local) solutions of mathematical optimization problems of the form
 
 $$
  	\begin{split}
