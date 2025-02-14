@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Aijunly.github.com"
+title                    : "Aijunly.github.io"
 title_separator          : "-"
 name                     : &name "Aijunly"
 description              : &description "I am a worker for Mathematica"
@@ -32,8 +32,8 @@ author:
 
   # Academic websites
   arxiv            : https://aijunly.alphaxiv.io/
-  googlescholar    : "https://scholar.google.com/citations?user=-9yrCD8AAAAJ&hl"
-  impactstory      : # URL
+  googlescholar    : "https://scholar.google.com/citations?user=-9yrCD8AAAAJ&hl??????====="
+  impactstory      : # URL       
   orcid            : "https://orcid.org/0000-0003-1787-919X"
   semantic         : # URL
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
