@@ -98,9 +98,12 @@ $$
 In the above Table, \\( \sigma^{k} \\) and \\( \sigma^{k+1} \\) is the \\( k \\)-th and \\( k + 1 \\)-th **reduced cost**, respectively.
 
 
-First, we define some struct 
 
-```julia  
+
+### First, we define some struct 
+
+
+```julia
 struct SimplexAbc{T <: Real}  
 A :: Matrix{T};
 b :: Vector{T};
@@ -121,6 +124,8 @@ end
 ```
 
 
+
+ 
 ## My Example     
 
 ```julia
