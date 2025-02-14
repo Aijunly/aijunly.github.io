@@ -91,11 +91,11 @@ where The functions \\( f(x) \\) and \\( g(x) \\) can be nonlinear and nonconvex
 	\end{split} 
 $$
 > 
-> where \\( A \in \mathbb{R}^{m \times n} \\) , \\( b \in \mathbb{R}^{m} \\) and \\( c \in \mathbb{R}^{n} \\) is Reduced Cost.
+> where \\( A \in \mathbb{R}^{m \times n} \\) , \\( b \in \mathbb{R}^{m} \\) and \\( c \in \mathbb{R}^{n} \\) is **reduced cost**.
 
 
-<img src='/images/pdsimplexK.png'>
-In the above Table, \\( \sigma^{k} \\) and \\( \sigma^{k+1} \\) is the \\( k \\)-th and \\( k + 1 \\)-th Reduced Cost, respectively.
+<img src='/images/pdsimplexK.png'>      
+In the above Table, \\( \sigma^{k} \\) and \\( \sigma^{k+1} \\) is the \\( k \\)-th and \\( k + 1 \\)-th **reduced cost**, respectively.
 
 
 First, we define some struct 
