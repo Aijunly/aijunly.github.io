@@ -37,9 +37,7 @@ A **Char** value represents a single character. **Strings** are finite sequences
 | [MOSEK](https://www.mosek.com/)                        | 1999 | Powerful software of solving large-scale optimization problems of (MI) Linear, Quadratic and Conic.| 
 | [SCIP](https://scipopt.org/)                           | 2005 | Fast and flexible solver for MIP, MINLP, and CP problems. | 
 
-### [BARON](https://minlp.com/)    
- BARON was the first branch-and-bound solver for global optimization of nonlinear programming (NLP) and mixed-integer nonlinear programming (MINLP) problems. <img src='/images/baron.png'>
- 
+
 ### [HiGHS](https://highs.dev/) 
 HiGHS is high performance serial and parallel software for solving large-scale sparse linear programming (LP), mixed-integer programming (MIP) and quadratic programming (QP) models.
 
@@ -53,6 +51,23 @@ $$
 		\end{cases}
 	\end{split}
 $$
+
+
+### [Ipopt](https://github.com/coin-or/Ipopt) 
+[Ipopt](https://github.com/coin-or/Ipopt) is a software package for large-scale nonlinear optimization. It is designed to find (local) solutions of mathematical optimization problems of the form
+
+$$
+ 	\begin{split}
+		&\min_{ x \in \mathbb{R}^{n}}~f(x)\\
+		&\quad \text{s.t.}  
+		\begin{cases}
+			g_L \leq g(x) \leq g_U, \\
+			x_L \leq x \leq x_U.        
+		\end{cases}    
+	\end{split}
+$$
+
+where The functions \\( f(x) \\) and \\( g(x) \\) can be nonlinear and nonconvex, but should be twice continuously differentiable. 
 
 ### [SCIP](https://github.com/scipopt/scip)  
 [SCIP](https://github.com/scipopt/scip) is currently one of the fastest academically  solvers for mixed integer programming (MIP) and mixed integer nonlinear programming (MINLP). It is also a framework for constraint integer programming and branch-cut-and-price. 
