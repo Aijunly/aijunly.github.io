@@ -57,7 +57,7 @@ $$
 
 
 ### [Ipopt](https://github.com/coin-or/Ipopt) 
-[Ipopt](https://github.com/coin-or/Ipopt) is a software package for large-scale nonlinear optimization with [Online Document](https://coin-or.github.io/Ipopt/).. It is designed to find (local) solutions of mathematical optimization problems of the form
+[Ipopt](https://github.com/coin-or/Ipopt) is a software package for large-scale nonlinear optimization with [Online Document](https://coin-or.github.io/Ipopt/index.html).. It is designed to find (local) solutions of mathematical optimization problems of the form
 
 $$
  	\begin{split}
