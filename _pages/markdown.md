@@ -88,19 +88,19 @@ where The functions \\( f(x) \\) and \\( g(x) \\) can be nonlinear and nonconvex
 		     Ax = b, \\
 		     x \geq 0,
 		\end{cases}
-	\end{split}
+	\end{split} 
 $$
 > 
 > where \\( A \in \mathbb{R}^{m \times n} \\) , \\( b \in \mathbb{R}^{m} \\) and \\( c \in \mathbb{R}^{n} \\) is Reduced Cost.
 
 
 <img src='/images/pdsimplexK.png'>
-In the above Table, \\( \sigma^{k} \\) is the \\( k \\)-th Reduced Cost. 
+In the above Table, \\( \sigma^{k} \\) and \\( \sigma^{k+1} \\) is the \\( k \\)-th and \\( k + 1 \\)-th Reduced Cost, respectively.
 
 
 First, we define some struct 
 
-```julia
+```julia  
 struct SimplexAbc{T <: Real}  
 A :: Matrix{T};
 b :: Vector{T};
