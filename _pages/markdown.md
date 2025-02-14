@@ -73,10 +73,10 @@ $$
 where The functions \\( f(x) \\) and \\( g(x) \\) can be nonlinear and nonconvex, but should be twice continuously differentiable. 
 
 ### [SCIP](https://github.com/scipopt/scip)  
-[SCIP](https://github.com/scipopt/scip) is currently one of the fastest academically  solvers for mixed integer programming (MIP) and mixed integer nonlinear programming (MINLP). It is also a framework for constraint integer programming and branch-cut-and-price. 
+[SCIP](https://github.com/scipopt/scip) is currently one of the fastest academically solvers for mixed integer programming (MIP) and mixed integer nonlinear programming (MINLP) with[ Online Document](https://scipopt.org/doc/html/index.php). It is also a framework for constraint integer programming and branch-cut-and-price. 
 
 
-## Primal-Dual Simplex Method
+## Primal-Dual Simplex Method    
 > From the \\( k \\)-th iteration of Simplex Table to the next \\( k+1 \\)-th iteration of Simplex Table for solving the Standard form of Linear Programming
 > 
 > $$
