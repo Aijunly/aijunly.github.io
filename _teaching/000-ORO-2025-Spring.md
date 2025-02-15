@@ -8,12 +8,7 @@ date: 2025-02-17
 location: "Zhenjiang, China"
 ---
 
-We are searching optimal choices  <br/><img src='/images/Kaohcj.png'>
-
-
-
-
-<br/><img src='/images/oro.png'>
+We are searching optimal choices  <br/><img src='/images/oro.png'>
 
 
 
