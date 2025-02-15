@@ -10,9 +10,16 @@ location: "Zhenjiang, China"
 
 We are searching optimal choices  <br/><img src='/images/Kaohcj.png'>
 
+
+
+
+<br/><img src='/images/oro.pn'>
+
+
+
 Linear Programming and its Dual Linear Programming
 ======
-Primal Standard Linear programming:      
+Primal Standard Linear programming:       
 
 $$
 \begin{aligned}
