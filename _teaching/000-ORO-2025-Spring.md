@@ -13,7 +13,7 @@ We are searching optimal choices  <br/><img src='/images/Kaohcj.png'>
 
 
 
-<br/><img src='/images/oro.pn'>
+<br/><img src='/images/oro.png'>
 
 
 
