@@ -29,13 +29,13 @@ Work experience 
   
 Skills 
 ====== 
-* Languages 
-    * Fluent English 
+* Languages
+    * Fluent English
     * Mandarin Chinese
-* Coding   
-    * Julia    
-    * LaTeX 
-* Miscellaneous    
+* Coding
+    * Julia
+    * LaTeX
+* Miscellaneous
     * Tai-Chi（太极拳）
     * Table Tennis（乒乓球）
-    * Cooking（烹饪） 
+    * Cooking（烹饪）
