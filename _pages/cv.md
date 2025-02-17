@@ -27,8 +27,8 @@ Work experience 
   * Supervisor: My wife <br/><img src='/images/aijunly.jpg'>
 
   
-Skills 
-====== 
+Skills
+======
 
 * Languages
     * Fluent English
