@@ -30,7 +30,8 @@ Skills
     * Mandarin Chinese
 * Coding
     * Julia
-    * LaTeX
+    * LaTeX       
+    * MATLAB
 * Miscellaneous
     * Tai-Chi（太极拳）
     * Table Tennis（乒乓球）
