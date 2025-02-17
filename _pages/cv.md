@@ -29,6 +29,7 @@ Work experience 
   
 Skills 
 ====== 
+
 * Languages
     * Fluent English
     * Mandarin Chinese
