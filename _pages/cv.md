@@ -24,6 +24,12 @@ Work experience
   
 Skills
 ======
+* Julia
+* LaTeX
+
+Miscellaneous
+======
+
 * Tai-Chi（太极拳）
 * Table Tennis（乒乓球）
 * Cooking（烹饪）
