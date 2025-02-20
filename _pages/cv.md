@@ -9,7 +9,8 @@ redirect_from:
 
 {% include base_path %} 
 
-> In the past, we know little; in the future, we know nothing; in the present, we ought to know. --- Aijunly J. Wang
+Every resume starts with a motto of its own.
+> The past, we know little; The future, we know nothing; The present, we ought to know. --- Aijunly J. Wang
 >
 > 过去，我们一知半解；未来，我们全无了解；现在，我们应该知道. --- 王贼臣
 
