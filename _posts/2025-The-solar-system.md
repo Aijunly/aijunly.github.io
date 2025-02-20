@@ -1,8 +1,5 @@
 ---
-title: 'The solar system, an amazing and conscious complex system'
-
-
-
+title: 'The solar system, an amazing and conscious complex system' 
 date: 2025-02-20   
 permalink: /posts/2012/08/blog-post-4/   
 tags:   
