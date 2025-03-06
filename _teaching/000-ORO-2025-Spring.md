@@ -8,9 +8,7 @@ date: 2025-02-17
 location: "Zhenjiang, China"
 ---
 
-We are searching optimal choices  <br/><img src='/images/oro.png'>
-
-
+We are searching optimal choices.  <br/><img src='/images/oro.png'>
 
 Linear Programming and its Dual Linear Programming
 ======
@@ -36,7 +34,9 @@ $$
     \end{aligned}
 $$
 
-Simplex Method in the following Table <br/><img src='/images/SimplexMethods.png'>      
+Simple example demonstrating a standard form of linear programming problem:
+<br/><img src='/images/oro2025/oro-auxi-1.png'>           
+<br/><img src='/images/oro2025/oro-auxi-2.png'>  
 
 Mixed Integer Linear Programming
 ======
