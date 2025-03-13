@@ -37,6 +37,7 @@ $$
 Simple example demonstrating a standard form of linear programming problem:
 <br/><img src='/images/oro2025/oro-auxi-1.png'>           
 <br/><img src='/images/oro2025/oro-auxi-2.png'>  
+<br/><img src='/images/oro2025/oro-auxi-3.png'>  
 
 Mixed Integer Linear Programming
 ======
