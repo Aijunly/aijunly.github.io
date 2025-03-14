@@ -14,9 +14,7 @@ I am a worker for mathematica programming in [JUST](www.just.edu.cn) <br/><img s
 
 
 Just for my funny. Don't do it like me.
-
 > What is pity, I can't always figure it out, tangled up in my brain like a bunch of broken nets.
-
 
 
 One more thing 
@@ -27,8 +25,5 @@ This world is so amazing that my consciousness can't even reach outside the sola
 Two more questions 
 ------
 - Shouldn't every person on earth be able to move freely around every corner of the planet?
-
 - Do I have the right to object categorically to the launching of satellites into the outer space of the Earth by any **individual, Government, Countries or organization**?
-
-
 - From the accident of **COVID-19** with the time of Dec. 2019 to Mar. 2023, I am beginning to have deep suspicions about the **GOVERMENT** of all the countries on earth.
