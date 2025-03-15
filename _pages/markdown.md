@@ -129,6 +129,25 @@ function GetSimplexTable(Abc :: SimplexAbc{T}) where T <: Real
 	push!(matdf,[Abc.c' 0]);
 	return matdf;
 end
+
+### EXAMPLES
+A = [3 5 1 0 0;6 2 0 1 0;1 2 0 0 1]
+b = [15;12;6]
+c = [2;3;0;0;0]
+
+
+st = SimplexAbc(A,b,c);
+
+GetSimplexTable(st)
+4×6 DataFrame
+ Row │ X1     X2     X3     X4     X5     B
+     │ Int64  Int64  Int64  Int64  Int64  Int64
+─────┼──────────────────────────────────────────
+   1 │     3      5      1      0      0     15
+   2 │     6      2      0      1      0     12
+   3 │     1      2      0      0      1      6
+   4 │     2      3      0      0      0      0
+
 ```
 
 
