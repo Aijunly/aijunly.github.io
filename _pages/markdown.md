@@ -83,7 +83,7 @@ where The functions \\( f(x) \\) and \\( g(x) \\) can be nonlinear and nonconvex
 > 
 > $$
  	\begin{split}
-		&\min_{ x \in \mathbb{R}^{n}}~  c^{\top} x\\
+		&\max_{ x \in \mathbb{R}^{n}}~  c^{\top} x\\
 		&\quad \text{s.t.}  
 		\begin{cases}
 		     Ax = b, \\
