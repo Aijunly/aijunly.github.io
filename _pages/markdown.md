@@ -105,19 +105,26 @@ In the above Table, \\( \sigma^{k} \\) and \\( \sigma^{k+1} \\) is the \\( k \\)
 
 
 ```julia
-struct SimplexAbc{T <: Real}  
-A :: Matrix{T};
+### IMPORT PACKAGES
+## LINEAR ALGEBRA
+using LinearAlgebra                    
+## DATA FRAMES
+using DataFrames
+
+                       
+struct SimplexAbc{T <: Real}         
+A :: Matrix{T};                    
 b :: Vector{T};
 c :: Vector{T};  
 end
 
-function GetSimplexTable(Abc <: SimplexAbc{T <: Real})
+function GetSimplexTable(Abc :: SimplexAbc{T}) where T <: Real
 	# Dimension of A
 	m,n = size(Abc.A);
-	# Augmented matrix                 
+	# Augmented matrix                 
 	augAB = [Abc.A Abc.b];
 	# Translate A into DataFrame
-	matdf = DataFrame(augAB,[Symbol.(:X,1:n);Symbol.(:B)]);    
+	matdf = DataFrame(augAB,[Symbol.(:X,1:n);Symbol.(:B)]);    
 	# Add check vector or coefficient below the last row of matdf
 	push!(matdf,[Abc.c' 0]);
 	return matdf;
