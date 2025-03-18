@@ -19,12 +19,14 @@ Given a matrix
 $$
         A = 
         \begin{pmatrix}                 
-        4 & 4 & 3 & 2 \\
-        2 & 2 & 2 & 1 \\
-        3 & 1 & 4 & 4 \\
-        1 & 3 & 1 & 3 \\
+        0 & 1 & 1 & 0 & 1 & 0\\
+        1 & 1 & 0 & 1 & 0 & 1\\
+        1 & 0 & 1 & 0 & 1 & 0\\
+        0 & 1 & 0 & 1 & 0 & 0\\
+        1 & 0 & 1 & 0 & 0 & 0\\
+        0 & 1 & 0 & 0 & 0 & 1\\
         \end{pmatrix}
-        \in \mathbb{R}^{4\times 4}
+        \in \mathbb{R}^{6 \times 6}
 $$
 
 and its eigenvalues \\(\lambda_1 = 10,~ \lambda_2 =1, ~ \lambda_3 = 1 + i,~ \lambda_4 = 1 - i\\).
