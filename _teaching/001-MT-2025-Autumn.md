@@ -29,6 +29,6 @@ $$
         \in \mathbb{R}^{6 \times 6}
 $$
 
-and its eigenvalues \\(\lambda_1 = 10,~ \lambda_2 =1, ~ \lambda_3 = 1 + i,~ \lambda_4 = 1 - i\\).
+and its eigenvalues \\(\lambda_1 = -1.4,~ \lambda_2 =-0.59, ~ \lambda_3 = 0,~ \lambda_4 = 1, ~ \lambda_5 = 2.13,~ \lambda_6 = 2.85\\).
  
  
