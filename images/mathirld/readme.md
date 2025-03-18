@@ -1,0 +1,1 @@
+Here is a photo album of math, a collection and organization of little cards that have something to say about math, a record of the fact that I've been here before, even as I've crawled through the world of math!
