@@ -8,9 +8,9 @@ tags:  
   - category2 
 --- 
 
-This post will show up by default. To disable scheduling of future posts, edit `config.yml` and set `future: false`. 
+In this blog, I'll depict one of the pie-in-the-sky reflections that are the result of the tangled doubts I've heard, seen, and thought about, and together they converge and merge into a single idea.
 
-## The solar system        
+## A guess about the solar system        
 > The solar system, an amazing and conscious complex system.
 
 Although we have seen her, we may know a little about it and even more the Earth.
