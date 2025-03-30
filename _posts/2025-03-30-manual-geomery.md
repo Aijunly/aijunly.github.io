@@ -8,7 +8,7 @@ tags:
   - category2
 ---
 
-In this blog, I'm going to be using a ruler and dividers to draw my own harebrained geometry as I go along, possibly creating my own logo, or simply a tangle of lines, or a random interweaving of arcs...
+In this blog, I'm going to be using a ruler and dividers to draw my own harebrained geometry as I go along, possibly creating my own logo, or simply a tangle of lines, or a random interweaving of arcs.
 
 One Logo
 ======
