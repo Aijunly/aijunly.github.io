@@ -1,7 +1,7 @@
 ---
 title: 'Manual Geometry'
 date: 2025-03-30
-permalink: /posts/mymanualgeomery
+permalink: /posts/2025/03/mymanualgeomery/
 tags:
   - cool posts
   - category1
