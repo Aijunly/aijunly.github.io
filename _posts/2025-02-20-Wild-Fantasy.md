@@ -1,7 +1,7 @@
 --- 
-title: 'The solar system, an amazing and conscious complex system' 
+title: 'Wild Fantasy' 
 date: 2025-02-20 
-permalink: /posts/2025/2025-The-solar-system
+permalink: /posts/2025/02/20/WildFantasy/
 tags:  
   - cool posts 
   - category1 
