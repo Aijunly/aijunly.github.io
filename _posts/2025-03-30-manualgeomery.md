@@ -8,9 +8,9 @@ tags:
   - category2
 ---
 
-This is a sample blog post. Lorem ipsum I can't remember the rest of lorem ipsum and don't have an internet connection right now. Testing testing testing this blog post. Blog posts are cool.
+In this blog, I'm going to be using a ruler to draw my own harebrained geometry as I go along, possibly creating my own logo, or simply a tangle of lines, or a random interweaving of arcs...
 
-Headings are cool
+One Logo
 ======
 
 You can have many headings
