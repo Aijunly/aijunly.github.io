@@ -1,7 +1,7 @@
 --- 
 title: 'Wild Fantasy' 
 date: 2025-02-20 
-permalink: /posts/2025/02/20/WildFantasy/
+permalink: /posts/2025/02/20/wild-fantasy/
 tags:  
   - cool posts 
   - category1 
