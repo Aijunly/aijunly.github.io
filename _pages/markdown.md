@@ -124,7 +124,7 @@ function GetSimplexTable(Abc :: SimplexAbc{T}) where T <: Real
 	# Augmented matrix                 
 	augAB = [Abc.A Abc.b];
 	# Translate A into DataFrame
-	matdf = DataFrame(augAB,[Symbol.(:X,1:n);Symbol.(:B)]);    
+	matdf = DataFrame(augAB,[Symbol.(:X,1:n);Symbol.(:RHS)]);    
 	# Add check vector or coefficient below the last row of matdf
 	push!(matdf,[Abc.c' 0]);
 	return matdf;
@@ -140,7 +140,7 @@ st = SimplexAbc(A,b,c);
 
 GetSimplexTable(st)
 4×6 DataFrame
- Row │ X1     X2     X3     X4     X5     B
+ Row │ X1     X2     X3     X4     X5     RHS
      │ Int64  Int64  Int64  Int64  Int64  Int64
 ─────┼──────────────────────────────────────────
    1 │     3      5      1      0      0     15
