@@ -21,6 +21,8 @@ collection: portfolio                      
 
 至于如何学好英语和数学，可以自己去网上搜索，自己探索我已经给出的问题的答案，那或许你会有不一样的惊喜和收获！
 
+<br/><img src='/images/oro2025/mylogo001.png'>
+
 > Every year, there are always students asking me what they should do and learn in college. They always say they feel lost and disoriented, like a fawn that can't find its mother. I know that talking about grand principles and the meaning of life is empty rhetoric, akin to a bureaucratic speech with no accountability, where the end result is that I feel good, and you look good. However, this often leaves the students who come to chat with me more perplexed and unsettled. So, drawing from my own academic journey, as well as the experiences of classmates and friends I know, knew, or have never met, my advice is:
 > 1. Regardless of your major, learn English well.
 > 2. Regardless of whether you will work in a math-related field in the future, learn English and math well. If you're not interested in math, then learn the logical reasoning behind it.
