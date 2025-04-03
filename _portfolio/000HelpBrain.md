@@ -6,7 +6,7 @@ collection: portfolio                      
 
 > 那些迷茫而又不安的孩子们，只需要指给他们一个方向，像小猫追着蝴蝶一样悠闲地前进，总会有一处地方藏着他们各自的答案。
 > 
-> To educate those confused and restless children, just point them in a direction, and let them move forward as leisurely as kittens chasing butterflies. Eventually, they will each find their own answers hidden somewhere along the way.
+> Those confused and restless children, just point them in a direction, and let them move forward as leisurely as kittens chasing butterflies. Eventually, they will each find their own answers hidden somewhere along the way.
 
 ## Advice for asking me questions that what i am going to do!?
 > 每年总会有学生问我在大学里应该做些啥、学些啥，他（她）总是说很茫然无措，迷茫的像个找不到妈妈的小鹿。我知道，讲大道理、讲人生意义都是假大空般地、八股文似的没有责任可承担的桌上用语，一通输出的结果是我好，你看起来也好了。但是，往往这个结果更加让来和我聊天的学生困惑不安。于是，结合我自己一路求学的经历，以及我认识的、不认识的、相识良久的同学和朋友的一些经历，我给出的建议是：
