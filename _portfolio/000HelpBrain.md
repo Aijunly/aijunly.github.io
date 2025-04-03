@@ -15,7 +15,6 @@ collection: portfolio                      
 > 3. 如果你对未来没有任何规划和思考，那当下请学好**数学和英语**。
 > 4. 如果你不喜欢**英语和数学**，那请培养由**逻辑**出发而衍生出来的“**独立思考**”能力；
 >    > 请学好**英语**，不需要太高要求，至少能够流利而又顺畅地和他人沟通交流即可；
->    > 
 >    > 学好**数学**，也不是考多高的分数，要学其背后的一套逻辑，以及由此构建自己的**认知体系**！
 > 6. 人生的每一步都是在做选择，而选择正确的道路，那需要你有获取真实资料的技能-**英语**，然后利用逻辑这个强大的工具，去推理演绎选择适合自己的那条道路！
 
@@ -26,7 +25,8 @@ collection: portfolio                      
 > 2. Regardless of whether you will work in a math-related field in the future, learn English and math well. If you're not interested in math, then learn the logical reasoning behind it.
 > 3. If you have no plans or thoughts for the future, focus on learning math and English for now.
 > 4. If you don't like English and math, cultivate the ability to think independently, derived from logic.
-> 5. Learn English well, not necessarily to a high standard, but enough to communicate fluently and smoothly with others; learn math not for high test scores, but for the logical framework behind it, and use it to build your own cognitive system!
+>    > Learn English well, not necessarily to a high standard, but enough to communicate fluently and smoothly with others;
+>    > learn math not for high test scores, but for the logical framework behind it, and use it to build your own cognitive system!
 > 6. Every step in life involves making choices, and choosing the right path requires the skill to obtain accurate information - English, and then using the powerful tool of logic to deduce and choose the path that suits you!
 
 As for how to learn English and math well, you can search online yourself, explore the answers to the questions I've already given, and perhaps you'll have a pleasant surprise and gain!
