@@ -25,7 +25,7 @@ collection: portfolio                      
 > 2. Regardless of whether you will work in a math-related field in the future, learn English and math well. If you're not interested in math, then learn the logical reasoning behind it.
 > 3. If you have no plans or thoughts for the future, focus on learning math and English for now.
 > 4. If you don't like English and math, cultivate the ability to think independently, derived from logic.
->    > Learn English well, not necessarily to a high standard, but enough to communicate fluently and smoothly with others;
+>    > Learn English well, not necessarily to a high standard, but enough to communicate fluently and smoothly with others; 
 >    > learn math not for high test scores, but for the logical framework behind it, and use it to build your own cognitive system!
 > 6. Every step in life involves making choices, and choosing the right path requires the skill to obtain accurate information - English, and then using the powerful tool of logic to deduce and choose the path that suits you!
 
