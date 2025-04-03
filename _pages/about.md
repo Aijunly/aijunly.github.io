@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a worker for mathematica programming in [JUST]([www.just.edu.cn](https://mypage.just.edu.cn/sl/wj_20278/list.htm)) <br/><img src='/images/justlogo.png'> from October 14, 2019. My mainly research interest includes [mathemmatical optimization](https://en.wikipedia.org/wiki/Mathematical_optimization), [deep learning](https://en.wikipedia.org/wiki/Deep_learning) and [optimal control](https://en.wikipedia.org/wiki/Optimal_control). 
+I am a worker for mathematica programming in [JUST](https://mypage.just.edu.cn/sl/wj_20278/list.htm) <br/><img src='/images/justlogo.png'> from October 14, 2019. My mainly research interest includes [mathemmatical optimization](https://en.wikipedia.org/wiki/Mathematical_optimization), [deep learning](https://en.wikipedia.org/wiki/Deep_learning) and [optimal control](https://en.wikipedia.org/wiki/Optimal_control). 
 > I still want to explain the real world which is consist of the Earth (Copper, Stannum, Silver, Gold ...) and Human being and its tools (Books, Music, Noise, **COVID-19** , **WAR**, **GUN**, **MONEY**, Family, Organization, **COUNTRY**, **GOVERMENT**, **ECONOMY**, **SCIENCE**, **AI**...) by Mathematica. 
 
 
