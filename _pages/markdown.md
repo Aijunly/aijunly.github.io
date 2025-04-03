@@ -97,7 +97,7 @@ $$
 
 <img src='/images/pdsimplexK.png'>      
 In the above Table, \\( \sigma^{k} \\) and \\( \sigma^{k+1} \\) is the \\( k \\)-th and \\( k + 1 \\)-th **reduced cost**, respectively.
-
+<img src='/images/oro2025/simplexkk.png'>
 
 
 
