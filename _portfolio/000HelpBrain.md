@@ -16,13 +16,12 @@ collection: portfolio                      
 至于如何学好英语和数学，可以自己去网上搜索，自己探索我已经给出的问题的答案，那或许你会有不一样的惊喜和收获！
 
 > Every year, there are always students asking me what they should do and learn in college. They always say they feel lost and disoriented, like a fawn that can't find its mother. I know that talking about grand principles and the meaning of life is empty rhetoric, akin to a bureaucratic speech with no accountability, where the end result is that I feel good, and you look good. However, this often leaves the students who come to chat with me more perplexed and unsettled. So, drawing from my own academic journey, as well as the experiences of classmates and friends I know, knew, or have never met, my advice is:
-
-1. Regardless of your major, learn English well.
-2. Regardless of whether you will work in a math-related field in the future, learn English and math well. If you're not interested in math, then learn the logical reasoning behind it.
-3. If you have no plans or thoughts for the future, focus on learning math and English for now.
-4. If you don't like English and math, cultivate the ability to think independently, derived from logic.
-5. Learn English well, not necessarily to a high standard, but enough to communicate fluently and smoothly with others; learn math not for high test scores, but for the logical framework behind it, and use it to build your own cognitive system!
-6. Every step in life involves making choices, and choosing the right path requires the skill to obtain accurate information - English, and then using the powerful tool of logic to deduce and choose the path that suits you!
+> 1. Regardless of your major, learn English well.
+> 2. Regardless of whether you will work in a math-related field in the future, learn English and math well. If you're not interested in math, then learn the logical reasoning behind it.
+> 3. If you have no plans or thoughts for the future, focus on learning math and English for now.
+> 4. If you don't like English and math, cultivate the ability to think independently, derived from logic.
+> 5. Learn English well, not necessarily to a high standard, but enough to communicate fluently and smoothly with others; learn math not for high test scores, but for the logical framework behind it, and use it to build your own cognitive system!
+> 6. Every step in life involves making choices, and choosing the right path requires the skill to obtain accurate information - English, and then using the powerful tool of logic to deduce and choose the path that suits you!
 
 As for how to learn English and math well, you can search online yourself, explore the answers to the questions I've already given, and perhaps you'll have a pleasant surprise and gain!
 
