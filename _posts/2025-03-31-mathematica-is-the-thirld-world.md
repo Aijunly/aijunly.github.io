@@ -1,5 +1,5 @@
 ---
-title: 'Mathematica is the Thirld World'
+title: 'Mathematica is the thirld world'
 date: 2025-03-31
 permalink: /posts/2025/03/mathematica-is-the-thirld-world/
 tags:
