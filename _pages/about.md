@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About me <br/><img src='/images/mylogos/mts007eddx.svg'> "
+title: "About me <br/><img src='/images/mylogos/mts007.svg'> "
 author_profile: true
 redirect_from:
   - /about/
