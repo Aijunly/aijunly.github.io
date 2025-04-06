@@ -15,6 +15,12 @@ Here is a photo album of math, a collection and organization of little cards tha
 A very useful [math poster](https://thinkzone.wlonk.com/Numbers/NumberSets.pdf) about numbers by [Keith Enevoldsen](https://thinkzone.wlonk.com). 
 <br/><img src='/images/mathirld/number.png'>
 
+
+## Distances
+[Distances, dissimilarities, divergences, diversities, discrepancies, discriminations, displacements, deviations, etc.](https://franknielsen.github.io/Divergence/)
+<br/><img src='/images/mathirld/Poster-Distances.png'>
+
+
 You can have many headings
 ======
 
