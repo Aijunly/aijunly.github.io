@@ -1,6 +1,6 @@
 ---
 layout: archive 
-title: "CV" 
+title: "CV <br/><img src='/images/boyogala/boyogalaQR005.jpg'>" 
 permalink: /cv/ 
 author_profile: true 
 redirect_from: 
@@ -8,9 +8,6 @@ redirect_from:
 ---
 
 {% include base_path %} 
-
-我的个人微信公众号：
-<br/><img src='/images/boyogala/boyogalaQR005.jpg'>
  
 Every resume starts with a motto of its own.
 > The past, we know little; The future, we know nothing; The present, we ought to know. --- Aijunly J. Wang
