@@ -9,8 +9,8 @@ redirect_from:
 
 {% include base_path %} 
 
-My logo belongs my "王賊臣":
- <br/><img src='/images/mylogos/mts007.png'>
+我的个人微信公众号：
+<br/><img src='/images/boyogala/boyogalaQR005.jpg'>
  
 Every resume starts with a motto of its own.
 > The past, we know little; The future, we know nothing; The present, we ought to know. --- Aijunly J. Wang
