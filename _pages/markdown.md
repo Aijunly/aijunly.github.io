@@ -1,6 +1,6 @@
 ---
 permalink: /markdown/
-title: "The Julia Programming Language <br/><img src='/images/boyogala/boyogalaQR005.jpg'>"
+title: "The Julia Programming Language"
 author_profile: true
 redirect_from: 
   - /md/
