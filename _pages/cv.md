@@ -1,6 +1,6 @@
 ---
 layout: archive 
-title: "CV <br/><img src='/images/boyogala/boyogalaQR005.jpg'>" 
+title: "CV" 
 permalink: /cv/ 
 author_profile: true 
 redirect_from: 
