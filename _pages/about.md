@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About me with Official Account: <br/><img src='/images/boyogala/boyogalaQR005.jpg'> "
+title: "About me with Official Account: <br/><img src='/images/boyogala/boyogala.png'> "
 author_profile: true
 redirect_from:
   - /about/
