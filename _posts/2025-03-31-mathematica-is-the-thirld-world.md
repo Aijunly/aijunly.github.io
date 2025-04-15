@@ -9,7 +9,6 @@ tags:
 ---
 
 Here is a photo album of math, a collection and organization of little cards that have something to say about math, a record of the fact that I've been here before, even as I've crawled through the world of math!
-<br/><img src='/images/mylogos/mts005.jpg'>
 
 ## NumberSets
 A very useful [math poster](https://thinkzone.wlonk.com/Numbers/NumberSets.pdf) about numbers by [Keith Enevoldsen](https://thinkzone.wlonk.com). 
