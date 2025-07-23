@@ -30,7 +30,7 @@ author:
   location         : "Zhenjiang China"
   employer         : "JUST"
   # uri              : aijunly.github.io # 这是原始地址
-  uri              : blog.boyogala.us.kg # 这是我自定义的域名
+  uri              : "www.boyogala.us.kg" # 这是我自定义的域名
   email            : "jwang77@just.edu.cn" 
 
   # Academic websites
