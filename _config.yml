@@ -8,9 +8,9 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Aijunly.github.io"
+title                    : "boyogala.github.io"
 title_separator          : "-"
-name                     : &name "Aijunly"
+name                     : &name "Boyogala"
 description              : &description "I am a worker for Mathematica"
 # url                      : https://aijunly.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 url                      : https://blog.boyogala.us.kg # 这是我自定义的域名"
