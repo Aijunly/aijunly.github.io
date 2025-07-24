@@ -3,8 +3,8 @@ title: "Reflections and Choices arising from Artificial Intelligence"
 collection: talks  
 type: "a course of lectures"  
 permalink: /talks/wjTalks4AI  
-venue: "JUST 2024" 
-date: 2024-11-01   
+venue: "JUST 2025" 
+date: 2025-09-01   
 location: "Zhenjiang, China"   
 ---
 
