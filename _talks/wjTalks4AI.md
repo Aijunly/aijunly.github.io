@@ -8,4 +8,4 @@ date: 2024-11-01
 location: "Zhenjiang, China"   
 ---
 
-<br/><img src='/images/talks-ai.png'>  
+<br/><img src='/images/talks/talks-ai.png'>  
