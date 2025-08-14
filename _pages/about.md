@@ -22,7 +22,4 @@ Two more questions 
 - Shouldn't every person on earth be able to move freely around every corner of the planet? 
 - Do I have the right to object categorically to the launching of satellites into the outer space of the Earth by any **individual, Government, Countries or organization**? 
 - From the accident of **COVID-19** with the time of Dec. 2019 to Mar. 2023, I am beginning to have deep suspicions about the **GOVERMENT** of all the countries on earth.
-- Are we human being the natives of the *Earth*?
-
-
- <a href="https://chatwise.app/?atp=8jxjbi">推荐使用的AI桌面客户端AI Desktop Client：ChatWise - The second fastest AI chatbot™</a>
+- Are we human being the natives of the *Earth*? 
