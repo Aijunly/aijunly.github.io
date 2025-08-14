@@ -9,3 +9,6 @@ location: "Zhenjiang, China"
 ---
 
 <br/><img src='/images/talks/talks-ai.png'>  
+
+
+<a href="https://chatwise.app/?atp=8jxjbi">ChatWise - The second fastest AI chatbot™</a>
