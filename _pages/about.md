@@ -12,7 +12,7 @@ I am a worker for mathematica programming in [JUST](https://mypage.just.edu.cn/s
 
 
 Just for my funny. Don't do it like me. 
-> What is pity, I can't always figure it out, tangled up in my brain like a bunch of broken nets. 
+ What is pity, I can't always figure it out, tangled up in my brain like a bunch of broken nets. 
 
 
 One more thing 
@@ -27,3 +27,7 @@ Two more questions 
 - Do I have the right to object categorically to the launching of satellites into the outer space of the Earth by any **individual, Government, Countries or organization**? 
 - From the accident of **COVID-19** with the time of Dec. 2019 to Mar. 2023, I am beginning to have deep suspicions about the **GOVERMENT** of all the countries on earth.
 - Are we human being the natives of the *Earth*?
+
+
+<a href="https://chatwise.app/?atp=8jxjbi">AI Desktop Client : ChatWise - The second fastest AI chatbot™</a>
+
