@@ -9,10 +9,7 @@ redirect_from:
 
 I am a worker for mathematica programming in [JUST](https://mypage.just.edu.cn/sl/wj_20278/list.htm) from October 14, 2019. My mainly research interest includes [mathemmatical optimization](https://en.wikipedia.org/wiki/Mathematical_optimization), [deep learning](https://en.wikipedia.org/wiki/Deep_learning) and [optimal control](https://en.wikipedia.org/wiki/Optimal_control). 
 > I still want to explain the real world which is consist of the Earth (Copper, Stannum, Silver, Gold ...) and Human being and its tools (Books, Music, Noise, **COVID-19** , **WAR**, **GUN**, **MONEY**, Family, Organization, **COUNTRY**, **GOVERMENT**, **ECONOMY**, **SCIENCE**, **AI**...) by Mathematica. 
-
-
-<a href="https://chatwise.app/?atp=8jxjbi">推荐使用的AI桌面客户端：ChatWise - The second fastest AI chatbot™</a>
-
+ 
 
 One more thing 
 ------
@@ -27,4 +24,5 @@ Two more questions 
 - From the accident of **COVID-19** with the time of Dec. 2019 to Mar. 2023, I am beginning to have deep suspicions about the **GOVERMENT** of all the countries on earth.
 - Are we human being the natives of the *Earth*?
 
- 
+
+ <a href="https://chatwise.app/?atp=8jxjbi">推荐使用的AI桌面客户端AI Desktop Client：ChatWise - The second fastest AI chatbot™</a>
