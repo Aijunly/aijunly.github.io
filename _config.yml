@@ -27,14 +27,14 @@ author:
   name             : "boyogala"
   pronouns         : # example: "she/her"  
   bio              : "The past, we know little; The future, we know nothing; The present, we ought to know"
-  location         : "Earth"
+  location         : " "
   employer         : "JUST"
   # uri              : aijunly.github.io # 这是原始地址
   uri              : "www.boyogala.xx.kg" # 这是我自定义的域名
   email            : "justdomath@boyogala.us.kg"
 
   # Academic websites
-  arxiv            : https://aijunly.alphaxiv.io
+  arxiv            : #https://aijunly.alphaxiv.io
   googlescholar    : # "https://www.boyogala.us.kg"
   impactstory      : # URL       
   orcid            : #"https://orcid.org/0000-0003-1787-919X"  
