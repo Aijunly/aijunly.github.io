@@ -27,10 +27,10 @@ author:
   name             : "boyogala"
   pronouns         : # example: "she/her"  
   bio              : "The past, we know little; The future, we know nothing; The present, we ought to know"
-  location         : "Zhenjiang China"
+  location         : "Earth"
   employer         : "JUST"
   # uri              : aijunly.github.io # 这是原始地址
-  #uri              : "www.boyogala.us.kg" # 这是我自定义的域名
+  uri              : "www.boyogala.xx.kg" # 这是我自定义的域名
   email            : "justdomath@boyogala.us.kg"
 
   # Academic websites
