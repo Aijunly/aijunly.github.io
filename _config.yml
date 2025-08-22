@@ -13,10 +13,10 @@ title_separator          : "-"
 name                     : &name "Boyogala"
 description              : &description "I am a worker for Mathematica"
 # url                      : https://aijunly.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
-url                      : https://blog.boyogala.us.kg # 这是我自定义的域名"
+url                      : https://www.boyogala.xx.kg # 这是我自定义的域名"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 # repository               : "Aijunly/aijunly.github.io"
-repository               : "Aijunly/blog.boyogala.us.kg" # 这是我自定义的域名
+repository               : "Aijunly/www.boyogala.xx.kg" # 这是我自定义的域名
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -47,7 +47,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "boyogala"
+  github           : #"boyogala"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
