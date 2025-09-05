@@ -27,10 +27,10 @@ author:
   name             : "Aijunly J. Wang"
   pronouns         : # example: "she/her"  
   bio              : "The past, we know little; The future, we know nothing; The present, we ought to know"
-  location         : " "
+  location         : "Zhenjiang/Jiangsu"
   employer         : "JUST"
   # uri              : aijunly.github.io # 这是原始地址
-  uri              : "www.manor.us.kg" # 这是我自定义的域名
+  uri              : # "www.manor.us.kg" # 这是我自定义的域名
   email            : "jwang77@just.edu.cn"
 
   # Academic websites
