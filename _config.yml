@@ -8,15 +8,15 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "BOYOGALA"
+title                    : "AIJUNLY J. WANG"
 title_separator          : "-"
-name                     : &name "Boyogala"
+name                     : &name "Aijunly J. Wang"
 description              : &description "I am a worker for Mathematica"
 # url                      : https://aijunly.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
-url                      : https://www.boyogala.xx.kg # 这是我自定义的域名"
+url                      : https://www.manor.us.kg # 这是我自定义的域名"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 # repository               : "Aijunly/aijunly.github.io"
-repository               : "Aijunly/www.boyogala.xx.kg" # 这是我自定义的域名
+repository               : "Aijunly/www.manor.us.kg" # 这是我自定义的域名
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -24,18 +24,18 @@ repository               : "Aijunly/www.boyogala.xx.kg" # 这是我自定义的�
 author:
   # Biographic information
   avatar           : "aijunly.jpg"
-  name             : "boyogala"
+  name             : "Aijunly J. Wang"
   pronouns         : # example: "she/her"  
   bio              : "The past, we know little; The future, we know nothing; The present, we ought to know"
   location         : " "
   employer         : "JUST"
   # uri              : aijunly.github.io # 这是原始地址
-  uri              : "www.boyogala.xx.kg" # 这是我自定义的域名
-  email            : "justdomath@boyogala.us.kg"
+  uri              : "www.manor.us.kg" # 这是我自定义的域名
+  email            : "jwang77@just.edu.cn"
 
   # Academic websites
   arxiv            : #https://aijunly.alphaxiv.io
-  googlescholar    : # "https://www.boyogala.us.kg"
+  googlescholar    : # "https://www.manor.us.kg"
   impactstory      : # URL       
   orcid            : #"https://orcid.org/0000-0003-1787-919X"  
   semantic         : # URL
